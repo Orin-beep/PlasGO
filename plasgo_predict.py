@@ -88,8 +88,8 @@ dataset = load_dataset('csv', data_files={'test': test_csv_path})
 prot_idx = pkl.load(open(f'{out_fn}/prot_idx.dict', 'rb'))
 protein_ids = dataset['test']['proteins']
 sentence_num = len(protein_ids)
-protein_ids = [i.split(';') for i in protein_ids]
-protein_ids = sum(protein_ids, [])
+protein_ids = ';'.join(protein_ids)
+protein_ids = protein_ids.split(';')
 protein_num = len(set([i for i in protein_ids if i!='None']))
 print(f'{protein_num} proteins in {sentence_num} plasmid sentences to be predicted ...')
 
