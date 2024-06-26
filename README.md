@@ -48,7 +48,7 @@ The annotation results will be saved in `results/results.tsv` by default.
 ## Install (Linux or Ubuntu only)
 ### Dependencies
 * [Python 3.x](https://www.python.org/downloads/)
-* [NumPy](https://pypi.org/project/numpy/)
+* [NumPy 1.25](https://pypi.org/project/numpy/)
 * [PyTorch](https://pytorch.org/get-started/previous-versions/)>1.8.0
 * [biopython](https://pypi.org/project/biopython/) (pip install biopython)
 * [datasets](https://pypi.org/project/datasets/) (pip install datasets)
