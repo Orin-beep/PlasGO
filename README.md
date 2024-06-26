@@ -1,14 +1,14 @@
 # PlasGO
 
-PlasGO is a Python library for predicting GO terms of plasmid-encoded proteins. PlasGO is designed as a hierarchical architecture that leverages the powerful foundation protein language model (ProtTrans-ProtT5) to learn the local context within protein sentences and a BERT model to capture the global context within plasmid sentences.
+PlasGO is a Python library for predicting Gene Ontology (GO) terms of plasmid-encoded proteins. PlasGO is designed as a hierarchical architecture that leverages the powerful foundation protein language model (ProtTrans-ProtT5) to learn the local context within protein sentences and a BERT model to capture the global context within plasmid sentences.
+
+You can use PlasGO in two ways: 1) __alignment-based method__: run the `plasgo_diamond.py` script to align your query proteins against our pre-annotated protein database, which consists of 678,196 non-redundant plasmid-encoded proteins and their predicted high-confidence GO terms; 2) __learning-based method__: run the `plasgo_predict.py` script to predict high-confidence GO terms for your query proteins when they do not have significant alignments to the pre-annotated database.
+
 
 ### E-mail: yongxinji2-c@my.cityu.edu.hk
 
 
-### Version: V1.1 (update at 2024-04-21)
-
-#### *__[Update - 2024 - 04 - 21]__* :  <BR/>
-* *We substantially reduce HOTSPOT's model size by training six models, with each model corresponding to one of the six taxonomic levels. Furthermore, we have incorporated an additional feature that allows you to train your custom models using your own plasmid dataset. <BR/>*
+### Version: V1.0 (2024-06-26)
 
 
 # Install (Linux or Ubuntu only)
