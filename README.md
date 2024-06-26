@@ -121,7 +121,7 @@ The results will be saved in a TSV file (default: `results/host_lineage.tsv`) co
 The dash '-' indicates that HOTSPOT cannot provide accurate predictions for the corresponding input at this taxonomic level.
 
 
-## Full command-line options
+# Full command-line options
 plasgo_diamond.py:
 ```
 Usage of plasgo_diamond.py:
