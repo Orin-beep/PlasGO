@@ -82,7 +82,7 @@ rm models.tar.gz
 ```
 
 
-## Download the foundation protein language model (ProtTrans-ProtT5)
+## Download foundation protein language model (ProtTrans-ProtT5)
 The ProtTrans-ProtT5 model is required for the preprocessing step of PlasGO. You can manually download it from [Zenodo](https://zenodo.org/record/4644188/files/prot_t5_xl_uniref50.zip) (4.9 GB) or use the wget command:
 
 ```
