@@ -32,7 +32,8 @@ rm database.tar.gz
 
 
 ## Usage
-Then, you can easily run `plasgo_diamond.py` to annotate your query plasmid proteins using Diamond.
+Then, you can easily run `plasgo_diamond.py` to annotate your query plasmid proteins using Diamond. Specifically, the query proteins will be annotated with the same GO terms as the target proteins with the best hits in the database.
+
 
 ### Simple example
 ```
