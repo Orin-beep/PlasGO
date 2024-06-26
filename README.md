@@ -71,11 +71,12 @@ conda activate plasgo
 If Anaconda fails to work, you can prepare the environment by individually installing the packages listed in the __Dependencies__ section.
 
 
-## Prepare default database and models (from Google Drive)
-To download the default database and models, you can use the following bash scripts: 
+## Download the default PlasGO models
+You can manually download the default PlasGO models from either [Zenodo](https://zenodo.org/records/12540110/files/models.tar.gz?download=1) or [Google Drive](https://drive.google.com/file/d/1ZqpLVsoJ0n60zEx3BtJjzb5_lP0PdqAg/view?usp=drive_link) in the same directory as `plasgo_predict.py` and uncompress it:
+
 ```
-sh prepare_db.sh        # download and unzip the database folder, 91.8 MB
-sh prepare_mdl.sh       # download and unzip the model folder, 1.78 GB
+tar -zxvf models.tar.gz
+rm models.tar.gz
 ```
 
 
