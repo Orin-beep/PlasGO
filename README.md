@@ -22,7 +22,7 @@ chmod 755 diamond
 
 
 ## Download the pre-annotated database
-Before running the `plasgo_diamond.py` script, you should first manually download the pre-annotated database of 678,196 plasmid proteins from either [Zenodo](https://zenodo.org/records/12540110/files/database.tar.gz?download=1) or [Google Drive](https://drive.google.com/file/d/1HrWiT_VioxhAoDoK_z6PguHTFDcXQ0gR/view?usp=drive_link).
+Before running the `plasgo_diamond.py` script, you should first manually download the pre-annotated database of 678,196 plasmid proteins from either [Zenodo](https://zenodo.org/records/12541389/files/database.tar.gz?download=1) or [Google Drive](https://drive.google.com/file/d/1HrWiT_VioxhAoDoK_z6PguHTFDcXQ0gR/view?usp=drive_link).
 
 After downloading the file `models.tar.gz`, place it in the same directory as `plasgo_diamond.py` and uncompress it:
 ```
@@ -72,7 +72,7 @@ If Anaconda fails to work, you can prepare the environment by individually insta
 
 
 ## Download the default PlasGO models
-You can manually download the default PlasGO models from either [Zenodo](https://zenodo.org/records/12540110/files/models.tar.gz?download=1) or [Google Drive](https://drive.google.com/file/d/1ZqpLVsoJ0n60zEx3BtJjzb5_lP0PdqAg/view?usp=drive_link) in the same directory as `plasgo_predict.py` and uncompress it:
+You can manually download the default PlasGO models from either [Zenodo](https://zenodo.org/records/12541389/files/models.tar.gz?download=1) or [Google Drive](https://drive.google.com/file/d/1ZqpLVsoJ0n60zEx3BtJjzb5_lP0PdqAg/view?usp=drive_link) in the same directory as `plasgo_predict.py` and uncompress it:
 
 ```
 tar -zxvf models.tar.gz
@@ -155,6 +155,6 @@ Usage of plasgo_predict.py:
 
 
 # Dataset
-The curated dataset to train the PlasGO models can be downloaded from [Zenodo] and [Google Drive].
+The curated RefSeq dataset to train the PlasGO models can be downloaded from [Zenodo](https://zenodo.org/records/12541389/files/dataset.tar.gz?download=1) and [Google Drive](https://drive.google.com/file/d/1auVKQoES4vs4-jniGq1YbzBPyHTVpTtV/view?usp=drive_link).
 
 
