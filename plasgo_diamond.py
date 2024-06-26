@@ -59,7 +59,7 @@ else:
 dmnd_path = f'{inputs.database}/database.dmnd'
 prot_path = inputs.fasta
 res_fn = inputs.out
-cmd = f'diamond blastp --threads {thread_num} {mode} -d {dmnd_path} -q {prot_path} -o {res_fn}/resp.tab -k 1 --outfmt 6 qseqid sseqid evalue'
+cmd = f'./diamond blastp --threads {thread_num} {mode} -d {dmnd_path} -q {prot_path} -o {res_fn}/resp.tab -k 1 --outfmt 6 qseqid sseqid evalue'
 _ = subprocess.check_call(cmd, shell=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 
 
