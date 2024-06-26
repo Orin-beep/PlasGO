@@ -54,6 +54,7 @@ The annotation results will be saved in `results/results.tsv` by default.
 * [datasets](https://pypi.org/project/datasets/) (pip install datasets)
 * [transformers](https://huggingface.co/docs/transformers/installation) (pip install transformers[sentencepiece])
 * [sentencepiece](https://pypi.org/project/sentencepiece/) (pip install sentencepiece)
+* [accelerate](https://huggingface.co/docs/accelerate/v0.11.0/en/installation) (pip install accelerate)
 
 If you want to use GPU to accelerate the program:
 * CUDA
