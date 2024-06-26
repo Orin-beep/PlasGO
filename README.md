@@ -108,14 +108,14 @@ The annotation results will be saved in a TSV file (default: `results/results.ts
 
 | Protein ID | Representative GO term | GO category | Probability (only available for `plasgo_predict.py`) | Member GO terms in the cluster |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| WP_071931462  | GO:0003723  | MF  | GO:0003677,GO:0003723  |
-| WP_071931462  | GO:1901363  | MF  | GO:1901363  |
-| WP_071931462  | GO:0003676  | MF  | GO:0003676  |
-| WP_071931462  | GO:0097159  | MF  | GO:0097159  |
-| WP_071931462  | GO:0005488  | MF  | GO:0005488  |
-| WP_071931462  | GO:0009987  | BP  | GO:0009987  |
-| WP_071931462  | GO:0016020  | CC  | GO:0016020  |
-| WP_071931462  | GO:0110165  | CC  | GO:0110165  |
+| WP_071931462  | GO:0003723  | MF  | 0.5  | GO:0003677,GO:0003723  |
+| WP_071931462  | GO:1901363  | MF  | 1.0  | GO:1901363  |
+| WP_071931462  | GO:0003676  | MF  | 1.0  | GO:0003676  |
+| WP_071931462  | GO:0097159  | MF  | 1.0  | GO:0097159  |
+| WP_071931462  | GO:0005488  | MF  | 1.0  | GO:0005488  |
+| WP_071931462  | GO:0009987  | BP  | 0.5  | GO:0009987  |
+| WP_071931462  | GO:0016020  | CC  | 0.99  | GO:0016020  |
+| WP_071931462  | GO:0110165  | CC  | 1.0  | GO:0110165  |
 
 The second column shows the representative GO terms of the predicted clusters, as determined by the REVIGO tool. The fourth column lists the member GO terms within each cluster. Importantly, if a query protein is predicted to be associated with a particular cluster, it means the protein is annotated to at least one of the GO terms within that cluster.
 
