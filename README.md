@@ -88,6 +88,7 @@ The ProtTrans-ProtT5 model is required for the preprocessing step of PlasGO. You
 ```
 wget https://zenodo.org/record/4644188/files/prot_t5_xl_uniref50.zip
 unzip prot_t5_xl_uniref50.zip
+rm prot_t5_xl_uniref50.zip
 ```
 
 
