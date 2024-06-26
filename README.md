@@ -103,14 +103,18 @@ python hotspot.py
 
 
 ## Format of the output file
-The results will be saved in a TSV file (default: `results/host_lineage.tsv`) containing the predicted host lineages from phylum to species level. Each row corresponds to an input plasmid sequence. Examples:
+The annotation results will be saved in a TSV file (default: `results/results.tsv`) containing the multiple cluster-level GO term labels annotated to each query plasmid protein. An example of a query protein `WP_071931462`:
 
-| Contig | Phylum | Class | Order | Family | Genus | Species |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| NZ_CP050042.1  | Pseudomonadota  | Gammaproteobacteria  | Enterobacterales  | Enterobacteriaceae  | Escherichia  | -  | 
-| NZ_CP083619.1  | Bacillota  | Clostridia  | Eubacteriales  | Peptostreptococcaceae  | Clostridioides  | Clostridioides difficile  |
-| NZ_CP083659.1  | Pseudomonadota  | Gammaproteobacteria  | Moraxellales  | Moraxellaceae  | Acinetobacter  | Acinetobacter variabilis  |
-| Z22927.1  | Actinomycetota  | Actinomycetes  | Corynebacteriales  | Corynebacteriaceae  | Corynebacterium  | Corynebacterium glutamicum  |
+| Protein ID | Representative GO term | GO category | Member GO terms in the cluster |
+| ------------- | ------------- | ------------- | ------------- |
+| WP_071931462  | GO:0003723  | MF  | GO:0003677,GO:0003723  |
+| WP_071931462  | GO:1901363  | MF  | GO:1901363  |
+| WP_071931462  | GO:0003676  | MF  | GO:0003676  |
+| WP_071931462  | GO:0097159  | MF  | GO:0097159  |
+| WP_071931462  | GO:0005488  | MF  | GO:0005488  |
+| WP_071931462  | GO:0009987  | BP  | GO:0009987  |
+| WP_071931462  | GO:0016020  | CC  | GO:0016020  |
+| WP_071931462  | GO:0110165  | CC  | GO:0110165  |
 
 The dash '-' indicates that HOTSPOT cannot provide accurate predictions for the corresponding input at this taxonomic level.
 
