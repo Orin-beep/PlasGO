@@ -102,8 +102,8 @@ python hotspot.py
 ```
 
 
-## Format of the output file
-The annotation results will be saved in a TSV file (default: `results/results.tsv`) containing the multiple cluster-level GO term labels annotated to each query plasmid protein. An example of a query protein `WP_071931462`:
+# Format of the output file
+The annotation results will be saved in a TSV file (default: `results/results.tsv`) containing the multiple cluster-level GO term labels annotated to each query plasmid protein. An output example of a query protein `WP_071931462`:
 
 | Protein ID | Representative GO term | GO category | Member GO terms in the cluster |
 | ------------- | ------------- | ------------- | ------------- |
@@ -116,7 +116,7 @@ The annotation results will be saved in a TSV file (default: `results/results.ts
 | WP_071931462  | GO:0016020  | CC  | GO:0016020  |
 | WP_071931462  | GO:0110165  | CC  | GO:0110165  |
 
-The dash '-' indicates that HOTSPOT cannot provide accurate predictions for the corresponding input at this taxonomic level.
+The second column shows the representative GO terms of the predicted clusters, as determined by the REVIGO tool. The fourth column lists the member GO terms within each cluster. Importantly, if a query protein is predicted to be associated with a particular cluster, it means the protein is annotated to at least one of the GO terms within that cluster.
 
 
 # Full command-line options
