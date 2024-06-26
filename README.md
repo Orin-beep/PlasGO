@@ -50,7 +50,8 @@ The annotation results will be saved in `results/results.tsv` by default.
 * [PyTorch](https://pytorch.org/get-started/previous-versions/)>1.8.0
 * [biopython](https://pypi.org/project/biopython/) (pip install biopython)
 * [datasets](https://pypi.org/project/datasets/) (pip install datasets)
-* [transformers](https://huggingface.co/docs/transformers/installation) (pip install 'transformers[torch]')
+* [transformers](https://huggingface.co/docs/transformers/installation) (pip install transformers[sentencepiece])
+* [sentencepiece](https://pypi.org/project/sentencepiece/) (pip install sentencepiece)
 
 If you want to use GPU to accelerate the program:
 * CUDA
@@ -105,8 +106,8 @@ python hotspot.py
 # Format of the output file
 The annotation results will be saved in a TSV file (default: `results/results.tsv`) containing the multiple cluster-level GO term labels annotated to each query plasmid protein. An output example of a query protein `WP_071931462`:
 
-| Protein ID | Representative GO term | GO category | Member GO terms in the cluster |
-| ------------- | ------------- | ------------- | ------------- |
+| Protein ID | Representative GO term | GO category | Probability (only available for `plasgo_predict.py`) | Member GO terms in the cluster |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | WP_071931462  | GO:0003723  | MF  | GO:0003677,GO:0003723  |
 | WP_071931462  | GO:1901363  | MF  | GO:1901363  |
 | WP_071931462  | GO:0003676  | MF  | GO:0003676  |
