@@ -11,7 +11,7 @@ You can use PlasGO in two ways: 1) __alignment-based method__: run the `plasgo_d
 ### Version: V1.0 (2024-06-26)
 
 
-# The first way: Alignment-based Method (using Diamond)
+# 1. Alignment-based Method (using Diamond)
 ## Install
 If you only need to annotate your plasmid proteins by aligning them against the pre-annotated database using Diamond, all you require is an environment with [Python 3.x](https://www.python.org/downloads/).
 ```
