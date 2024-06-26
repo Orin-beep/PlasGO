@@ -21,7 +21,7 @@ chmod 755 diamond
 ```
 
 
-## Download the pre-annotated database (from Zenodo)
+## Download the pre-annotated database
 Before running the `plasgo_diamond.py` script, you should first download the pre-annotated database of 678,196 plasmid proteins from either [Zenodo](https://zenodo.org/records/12540110/files/database.tar.gz?download=1) or [Google Drive](https://drive.google.com/file/d/1HrWiT_VioxhAoDoK_z6PguHTFDcXQ0gR/view?usp=drive_link).
 
 
