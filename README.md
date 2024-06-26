@@ -42,21 +42,15 @@ python plasgo_diamond.py --fasta example_data/proteins.faa --database database -
 The annotation results will be saved in `results/results.tsv` by default.
 
 
-
-
-# Install (Linux or Ubuntu only)
-## Dependencies
+# 2. Learning-based Method (predict using the PlasGO models)
+## Install (Linux or Ubuntu only)
+### Dependencies
 * [Python 3.x](https://www.python.org/downloads/)
 * [NumPy](https://pypi.org/project/numpy/)
-* [bidict](https://pypi.org/project/bidict/)
-* [Pandas](https://pypi.org/project/pandas/)
 * [PyTorch](https://pytorch.org/get-started/previous-versions/)>1.8.0
-* [diamond](https://anaconda.org/bioconda/diamond)
-* [Prodigal](https://anaconda.org/bioconda/prodigal)
-* [biopython](https://pypi.org/project/biopython/)
-* [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)=2.13.0 (conda install -c bioconda blast=2.13.0)
-* [HMMER](https://anaconda.org/bioconda/hmmer)
-* [treelib](https://pypi.org/project/treelib/)
+* [biopython](https://pypi.org/project/biopython/) (pip install biopython)
+* [datasets](https://pypi.org/project/datasets/) (pip install datasets)
+* [transformers](https://huggingface.co/docs/transformers/installation) (pip install 'transformers[torch]')
 
 If you want to use GPU to accelerate the program:
 * CUDA
