@@ -61,14 +61,15 @@ If you want to use GPU to accelerate the program:
 
 
 ## Prepare the environment
-After cloning this repository (```git clone https://github.com/Orin-beep/HOTSPOT```), you can use Anaconda to install ```environment.yaml```. This will install all packages you need in GPU mode (make sure you have installed CUDA on your system to use the GPU version; otherwise, HOTSPOT will run in CPU mode). The installing command is: 
+You can easily prepare the environment by using Anaconda to install ```plasgo.yaml```. This will install all packages you need in GPU mode (make sure you have installed CUDA on your system to use the GPU version. Otherwise, PlasGO will run in CPU mode). The installing command is: 
 ```
-git clone https://github.com/Orin-beep/HOTSPOT
-cd HOTSPOT/
-conda env create -f environment.yaml -n hotspot
-conda activate hotspot
+git clone https://github.com/Orin-beep/PlasGO
+cd PlasGO/
+conda env create -f plasgo.yaml -n plasgo
+conda activate plasgo
 ```
 If Anaconda fails to work, you can prepare the environment by individually installing the packages listed in the __Dependencies__ section.
+
 
 ## Prepare default database and models (from Google Drive)
 To download the default database and models, you can use the following bash scripts: 
