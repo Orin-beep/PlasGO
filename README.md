@@ -90,13 +90,15 @@ unzip prot_t5_xl_uniref50.zip
 
 
 ## Usage
-After all the above preparation steps, you can then predict GO terms for your query plasmid proteins with the two scripts: `preprocessing.py` and `plasgo_predict.py`:
+After completing all the preparation steps, you can then predict GO terms for your query plasmid proteins by running the `preprocessing.py` and `plasgo_predict.py` scripts:
 
 ### Simple example
 ```
 python preprocessing.py --fasta example_data/proteins.faa --plasmids example_data/3plasmids.txt --prott5 prot_t5_xl_uniref50
 python plasgo_predict.py --model_path models
 ```
+
+Notably, it is recommended to provide a TXT file containing the contextual information, where the proteins are arranged in the same order as their encoding within the plasmid if this information is available (not mandatory). As shown in the example TXT file `example_data/3plasmids.txt`, each row should include the protein IDs separated by a semicolon (';') within one complete plasmid or plasmid segment.
 
 
 # Format of the output file
