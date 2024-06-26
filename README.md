@@ -31,6 +31,17 @@ rm database.tar.gz
 ```
 
 
+## Usage
+Then, you can easily run `plasgo_diamond.py` to annotate your query plasmid proteins using Diamond.
+
+### Simple example
+```
+python plasgo_diamond.py --fasta example_data/proteins.faa --database database --threads 8
+```
+The annotation results will be saved in `results/results.tsv` by default.
+
+
+
 
 # Install (Linux or Ubuntu only)
 ## Dependencies
