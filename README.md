@@ -152,3 +152,9 @@ Usage of plasgo_predict.py:
         [--device DEVICE] device utilized for GO term prediction ('gpu' or 'cpu'), default: 'gpu'
         [--batch_size BATCH_SIZE] batch size (plasmid sentence count in a batch) for GO term prediction. If your GPU is out of memory during prediction, you can try to reduce this parameter, default: 32
 ```
+
+
+# Dataset
+The curated dataset to train the PlasGO models can be downloaded from [Zenodo] and [Google Drive].
+
+
