@@ -132,32 +132,15 @@ python hotspot.py --accurate_mode True
 ```
 
 
-## Train your custom models
-The data used to train our default models are presented in the table below. If you intend to train custom models, it is necessary to generate corresponding files in the same format, utilizing your own plasmid dataset.
-
-| Required file | Remark | Usage (format) |
-| ------------- | ------------- | ------------- |
-| [plasmids.fasta](https://drive.google.com/file/d/1LZXSJZCn94JzdzwrCGT1WcMjVT-HWxGx/view?usp=drive_link) | FASTA file of plasmid DNA sequences for training | The downloaded file is a compressed file. You have to unzip it first: `tar -zxvf plasmids.fasta.tar.gz` |
-| [host_lineages.tsv](https://drive.google.com/file/d/1a1Tkq_3SywmGo5sVwTC7jzuV0SkfBOIw/view?usp=drive_link) | TSV file containing complete host lineage information from phylum to species for each training plasmid | TSV file with seven columns: plasmid_id, phylum, class, order, family, genus, species |
-| [train_val.txt](https://drive.google.com/file/d/15HxvHPkKJx6eXXVNXa88tf-0BJZlBbVp/view?usp=drive_link) | TXT file containing the information of the training/validation sets | The first row should display the list of training plasmids, while the second row should display the list of validation plasmids. Each plasmid in the lists should be separated by a space |
-
-Once you have prepared the files listed in the above table, you can train your custom models by entering into the `train/` folder and sequentially running the `preprocessing_train.py` and `train.py` scripts (in the following case, the three required files are saved in the `HOTSPOT/training_dataset/` folder):
-```
-cd train/
-python preprocessing_train.py --fasta ../training_dataset/plasmids.fasta --host_info ../training_dataset/host_lineages.tsv --train_val_list ../training_dataset/train_val.txt
-python train.py
-```
-
 ## Full command-line options
-preprocessing.py:
+plasgo_diamond.py:
 ```
-Usage of preprocessing.py:
-        [--fasta FASTA] FASTA file of the plasmid DNA sequences to be predicted (either complete sequences or contigs), default: multiple_plasmids.fasta
-        [--database DATABASE]   path of the downloaded database folder, which consists of the sequences of PC proteins, MOB/MPF proteins, and replicons, default: database
-        [--model_path MODEL_PATH]   path of the folder storing the downloaded or your customized models, default: models
-        [--midfolder]   folder to store the intermediate files for prediction, default: temp
-        [--len LEN] minimum length of plasmid DNA sequences, default: 1500
-        [--threads THREADS] number of threads utilized for preprocessing, default: 2
+Usage of plasgo_diamond.py:
+        [--fasta FASTA] FASTA file of the plasmid-encoded proteins to be annotated, default: example_data/proteins.faa
+        [--database DATABASE] path of the downloaded pre-annotated database, which consists of 678196 non-redundant plasmid-encoded proteins, along with their GO annotations predicted by PlasGO, default: database
+        [--out OUT] path to store the annotation results by alignments (Diamond), default: results
+        [--threads THREADS] number of threads utilized for Diamond, default: 2
+        [--diamond_mode DIAMOND_MODE] mode for controlling the sensitivity of Diamond, you can choose one from ['default', 'mid-sensitive', 'sensitive', 'more-sensitive', 'very-sensitive', 'ultra-sensitive'], default: sensitive
 ```
 
 hotspot.py:
