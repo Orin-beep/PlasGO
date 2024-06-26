@@ -19,6 +19,7 @@ git clone https://github.com/Orin-beep/PlasGO
 cd PlasGO/
 tar -jxvf diamond.tar.bz2
 chmod 755 diamond
+rm diamond.tar.bz2
 ```
 
 
