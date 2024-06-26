@@ -42,6 +42,10 @@ if not os.path.exists(db_fn):
     help_info()
     sys.exit()
 
+res_fn = inputs.out
+if not os.path.isdir(res_fn):
+    os.makedirs(res_fn)
+
 
 #############################################################
 ########################  DIAMOND!  #########################
