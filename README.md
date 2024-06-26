@@ -123,6 +123,12 @@ The second column shows the representative GO terms of the predicted clusters, a
 Detailed information on the labels used in PlasGO's default models is provided in the TSV file `GO_term_label_details.tsv`.
 
 
+# Datasets
+The curated RefSeq dataset to train the PlasGO models can be downloaded from [Zenodo](https://zenodo.org/records/12542525/files/dataset.tar.gz?download=1) or [Google Drive](https://drive.google.com/file/d/1auVKQoES4vs4-jniGq1YbzBPyHTVpTtV/view?usp=drive_link).
+
+The detailed information of the pre-annotated database (678,196 plasmid proteins) can be downdloaded from [Zenodo](https://zenodo.org/records/12542525/files/detailed_database.tar.gz?download=1) or [Google Drive](https://drive.google.com/file/d/1zuaOKj60xY76kJS31XvyJzxg8LucfBV8/view?usp=sharing).
+
+
 # Full command-line options
 plasgo_diamond.py:
 ```
@@ -156,9 +162,4 @@ Usage of plasgo_predict.py:
         [--batch_size BATCH_SIZE] batch size (plasmid sentence count in a batch) for GO term prediction. If your GPU is out of memory during prediction, you can try to reduce this parameter, default: 32
 ```
 
-
-# Dataset
-The curated RefSeq dataset to train the PlasGO models can be downloaded from [Zenodo](https://zenodo.org/records/12542525/files/dataset.tar.gz?download=1) or [Google Drive](https://drive.google.com/file/d/1auVKQoES4vs4-jniGq1YbzBPyHTVpTtV/view?usp=drive_link).
-
-The detailed information of the pre-annotated database (678,196 plasmid proteins) can be downdloaded from [Zenodo](https://zenodo.org/records/12542525/files/detailed_database.tar.gz?download=1) or [Google Drive](https://drive.google.com/file/d/1zuaOKj60xY76kJS31XvyJzxg8LucfBV8/view?usp=sharing).
 
