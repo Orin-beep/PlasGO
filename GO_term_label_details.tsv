@@ -1,0 +1,1434 @@
+GO category	Label index (representative)	Member GO term	Detail
+MF	0 (GO:0000287)	GO:0000287	magnesium ion binding
+MF	1 (GO:0003676)	GO:0003676	nucleic acid binding
+MF	2 (GO:0003684)	GO:0003684	damaged DNA binding
+MF	3 (GO:0003697)	GO:0003697	single-stranded DNA binding
+MF	4 (GO:0003700)	GO:0016987	sigma factor activity
+MF	4 (GO:0003700)	GO:0140110	transcription regulator activity
+MF	4 (GO:0003700)	GO:0001216	DNA-binding transcription activator activity
+MF	4 (GO:0003700)	GO:0003700	DNA-binding transcription factor activity
+MF	5 (GO:0003723)	GO:0003677	DNA binding
+MF	5 (GO:0003723)	GO:0003723	RNA binding
+MF	6 (GO:0003735)	GO:0003735	structural constituent of ribosome
+MF	7 (GO:0003824)	GO:0003824	catalytic activity
+MF	8 (GO:0004372)	GO:0004372	glycine hydroxymethyltransferase activity
+MF	8 (GO:0004372)	GO:0003864	3-methyl-2-oxobutanoate hydroxymethyltransferase activity
+MF	9 (GO:0004497)	GO:0004497	monooxygenase activity
+MF	10 (GO:0004659)	GO:0004311	farnesyltranstransferase activity
+MF	10 (GO:0004659)	GO:0004337	geranyltranstransferase activity
+MF	10 (GO:0004659)	GO:0016767	geranylgeranyl-diphosphate geranylgeranyltransferase activity
+MF	10 (GO:0004659)	GO:0004156	dihydropteroate synthase activity
+MF	10 (GO:0004659)	GO:0004124	cysteine synthase activity
+MF	10 (GO:0004659)	GO:0004659	prenyltransferase activity
+MF	11 (GO:0004888)	GO:0000156	phosphorelay response regulator activity
+MF	11 (GO:0004888)	GO:0004888	transmembrane signaling receptor activity
+MF	11 (GO:0004888)	GO:0038023	signaling receptor activity
+MF	12 (GO:0005198)	GO:0005198	structural molecule activity
+MF	13 (GO:0005215)	GO:0005215	transporter activity
+MF	14 (GO:0005488)	GO:0005488	binding
+MF	15 (GO:0005509)	GO:0005509	calcium ion binding
+MF	16 (GO:0005515)	GO:0005515	protein binding
+MF	17 (GO:0005525)	GO:0017076	purine nucleotide binding
+MF	17 (GO:0005525)	GO:0032555	purine ribonucleotide binding
+MF	17 (GO:0005525)	GO:0032553	ribonucleotide binding
+MF	17 (GO:0005525)	GO:0032561	guanyl ribonucleotide binding
+MF	17 (GO:0005525)	GO:0005525	GTP binding
+MF	17 (GO:0005525)	GO:0030554	adenyl nucleotide binding
+MF	17 (GO:0005525)	GO:0032559	adenyl ribonucleotide binding
+MF	17 (GO:0005525)	GO:0005524	ATP binding
+MF	17 (GO:0005525)	GO:0000166	nucleotide binding
+MF	17 (GO:0005525)	GO:0035639	purine ribonucleoside triphosphate binding
+MF	18 (GO:0008135)	GO:0090079	translation regulator activity, nucleic acid binding
+MF	18 (GO:0008135)	GO:0003746	translation elongation factor activity
+MF	18 (GO:0008135)	GO:0003743	translation initiation factor activity
+MF	18 (GO:0008135)	GO:0008135	translation factor activity, RNA binding
+MF	18 (GO:0008135)	GO:0045182	translation regulator activity
+MF	19 (GO:0008233)	GO:0008233	peptidase activity
+MF	20 (GO:0008483)	GO:0070548	L-glutamine aminotransferase activity
+MF	20 (GO:0008483)	GO:0004400	histidinol-phosphate transaminase activity
+MF	20 (GO:0008483)	GO:0008483	transaminase activity
+MF	20 (GO:0008483)	GO:0004360	glutamine-fructose-6-phosphate transaminase (isomerizing) activity
+MF	21 (GO:0008484)	GO:0008484	sulfuric ester hydrolase activity
+MF	22 (GO:0008716)	GO:0003922	GMP synthase (glutamine-hydrolyzing) activity
+MF	22 (GO:0008716)	GO:0004592	pantoate-beta-alanine ligase activity
+MF	22 (GO:0008716)	GO:0008716	D-alanine-D-alanine ligase activity
+MF	23 (GO:0008961)	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+MF	24 (GO:0009055)	GO:0009055	electron transfer activity
+MF	24 (GO:0009055)	GO:0004129	cytochrome-c oxidase activity
+MF	25 (GO:0010181)	GO:0010181	FMN binding
+MF	26 (GO:0010340)	GO:0010340	carboxyl-O-methyltransferase activity
+MF	26 (GO:0010340)	GO:0009008	DNA-methyltransferase activity
+MF	26 (GO:0010340)	GO:0000150	DNA strand exchange activity
+MF	26 (GO:0010340)	GO:0008172	S-methyltransferase activity
+MF	26 (GO:0010340)	GO:0008988	rRNA (adenine-N6-)-methyltransferase activity
+MF	26 (GO:0010340)	GO:0003911	DNA ligase (NAD+) activity
+MF	26 (GO:0010340)	GO:0009007	site-specific DNA-methyltransferase (adenine-specific) activity
+MF	26 (GO:0010340)	GO:0003886	DNA (cytosine-5-)-methyltransferase activity
+MF	26 (GO:0010340)	GO:0003909	DNA ligase activity
+MF	27 (GO:0015086)	GO:0015086	cadmium ion transmembrane transporter activity
+MF	28 (GO:0015144)	GO:0051119	sugar transmembrane transporter activity
+MF	28 (GO:0015144)	GO:0015146	pentose transmembrane transporter activity
+MF	28 (GO:0015144)	GO:0043211	ABC-type carbohydrate transporter activity
+MF	28 (GO:0015144)	GO:0015144	carbohydrate transmembrane transporter activity
+MF	28 (GO:0015144)	GO:0015407	ABC-type monosaccharide transporter activity
+MF	28 (GO:0015144)	GO:0015159	polysaccharide transmembrane transporter activity
+MF	28 (GO:0015144)	GO:0015450	protein-transporting ATPase activity
+MF	28 (GO:0015144)	GO:0008982	protein-N(PI)-phosphohistidine-sugar phosphotransferase activity
+MF	28 (GO:0015144)	GO:0008320	protein transmembrane transporter activity
+MF	28 (GO:0015144)	GO:0015145	monosaccharide transmembrane transporter activity
+MF	29 (GO:0015439)	GO:0015343	siderophore-iron transmembrane transporter activity
+MF	29 (GO:0015439)	GO:0015232	heme transmembrane transporter activity
+MF	29 (GO:0015439)	GO:0015439	ABC-type heme transporter activity
+MF	29 (GO:0015439)	GO:0005381	iron ion transmembrane transporter activity
+MF	30 (GO:0015562)	GO:0015562	efflux transmembrane transporter activity
+MF	31 (GO:0015643)	GO:0015643	toxic substance binding
+MF	32 (GO:0016151)	GO:0016151	nickel cation binding
+MF	33 (GO:0016209)	GO:0004096	catalase activity
+MF	33 (GO:0016209)	GO:0004601	peroxidase activity
+MF	33 (GO:0016209)	GO:0015105	arsenite transmembrane transporter activity
+MF	33 (GO:0016209)	GO:0015446	ATPase-coupled arsenite transmembrane transporter activity
+MF	33 (GO:0016209)	GO:1901683	arsenate ion transmembrane transporter activity
+MF	33 (GO:0016209)	GO:0016209	antioxidant activity
+MF	34 (GO:0016491)	GO:0016491	oxidoreductase activity
+MF	35 (GO:0016614)	GO:0016614	oxidoreductase activity, acting on CH-OH group of donors
+MF	36 (GO:0016616)	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+MF	36 (GO:0016616)	GO:0009027	tartrate dehydrogenase activity
+MF	36 (GO:0016616)	GO:0004399	histidinol dehydrogenase activity
+MF	36 (GO:0016616)	GO:0018455	alcohol dehydrogenase [NAD(P)+] activity
+MF	36 (GO:0016616)	GO:0004022	alcohol dehydrogenase (NAD+) activity
+MF	36 (GO:0016616)	GO:0050570	4-hydroxythreonine-4-phosphate dehydrogenase activity
+MF	36 (GO:0016616)	GO:0003862	3-isopropylmalate dehydrogenase activity
+MF	36 (GO:0016616)	GO:0016615	malate dehydrogenase activity
+MF	36 (GO:0016616)	GO:0008465	glycerate dehydrogenase activity
+MF	36 (GO:0016616)	GO:0016618	hydroxypyruvate reductase activity
+MF	37 (GO:0016620)	GO:0016620	oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor
+MF	37 (GO:0016620)	GO:0009013	succinate-semialdehyde dehydrogenase [NAD(P)+] activity
+MF	37 (GO:0016620)	GO:0004029	aldehyde dehydrogenase (NAD+) activity
+MF	37 (GO:0016620)	GO:0004030	aldehyde dehydrogenase [NAD(P)+] activity
+MF	37 (GO:0016620)	GO:0008774	acetaldehyde dehydrogenase (acetylating) activity
+MF	38 (GO:0016627)	GO:0016627	oxidoreductase activity, acting on the CH-CH group of donors
+MF	39 (GO:0016628)	GO:0016628	oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor
+MF	39 (GO:0016628)	GO:0018506	maleylacetate reductase activity
+MF	40 (GO:0016638)	GO:0016638	oxidoreductase activity, acting on the CH-NH2 group of donors
+MF	41 (GO:0016641)	GO:0016641	oxidoreductase activity, acting on the CH-NH2 group of donors, oxygen as acceptor
+MF	41 (GO:0016641)	GO:0008718	D-amino-acid dehydrogenase activity
+MF	41 (GO:0016641)	GO:0016639	oxidoreductase activity, acting on the CH-NH2 group of donors, NAD or NADP as acceptor
+MF	42 (GO:0016645)	GO:0016645	oxidoreductase activity, acting on the CH-NH group of donors
+MF	43 (GO:0016647)	GO:0004486	methylenetetrahydrofolate dehydrogenase [NAD(P)+] activity
+MF	43 (GO:0016647)	GO:0016646	oxidoreductase activity, acting on the CH-NH group of donors, NAD or NADP as acceptor
+MF	43 (GO:0016647)	GO:0004146	dihydrofolate reductase activity
+MF	43 (GO:0016647)	GO:0016647	oxidoreductase activity, acting on the CH-NH group of donors, oxygen as acceptor
+MF	43 (GO:0016647)	GO:0004488	methylenetetrahydrofolate dehydrogenase (NADP+) activity
+MF	44 (GO:0016651)	GO:0016651	oxidoreductase activity, acting on NAD(P)H
+MF	45 (GO:0016655)	GO:0016655	oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor
+MF	45 (GO:0016655)	GO:0003955	NAD(P)H dehydrogenase (quinone) activity
+MF	45 (GO:0016655)	GO:0050136	NADH dehydrogenase (quinone) activity
+MF	45 (GO:0016655)	GO:0008753	NADPH dehydrogenase (quinone) activity
+MF	45 (GO:0016655)	GO:0008137	NADH dehydrogenase (ubiquinone) activity
+MF	45 (GO:0016655)	GO:0016652	oxidoreductase activity, acting on NAD(P)H, NAD(P) as acceptor
+MF	45 (GO:0016655)	GO:0003954	NADH dehydrogenase activity
+MF	46 (GO:0016661)	GO:0016661	oxidoreductase activity, acting on other nitrogenous compounds as donors
+MF	47 (GO:0016662)	GO:0050304	nitrous-oxide reductase activity
+MF	47 (GO:0016662)	GO:0016662	oxidoreductase activity, acting on other nitrogenous compounds as donors, cytochrome as acceptor
+MF	47 (GO:0016662)	GO:0008940	nitrate reductase activity
+MF	48 (GO:0016667)	GO:0016667	oxidoreductase activity, acting on a sulfur group of donors
+MF	49 (GO:0016671)	GO:0015035	protein-disulfide reductase activity
+MF	49 (GO:0016671)	GO:0015036	disulfide oxidoreductase activity
+MF	49 (GO:0016671)	GO:0016668	oxidoreductase activity, acting on a sulfur group of donors, NAD(P) as acceptor
+MF	49 (GO:0016671)	GO:0033744	L-methionine:thioredoxin-disulfide S-oxidoreductase activity
+MF	49 (GO:0016671)	GO:0008113	peptide-methionine (S)-S-oxide reductase activity
+MF	49 (GO:0016671)	GO:0016671	oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor
+MF	50 (GO:0016675)	GO:0016675	oxidoreductase activity, acting on a heme group of donors
+MF	51 (GO:0016684)	GO:0016684	oxidoreductase activity, acting on peroxide as acceptor
+MF	52 (GO:0016701)	GO:0016701	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen
+MF	53 (GO:0016705)	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+MF	54 (GO:0016712)	GO:0016712	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen
+MF	54 (GO:0016712)	GO:0016709	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen
+MF	55 (GO:0016740)	GO:0016740	transferase activity
+MF	56 (GO:0016741)	GO:0016741	transferase activity, transferring one-carbon groups
+MF	57 (GO:0016743)	GO:0016742	hydroxymethyl-, formyl- and related transferase activity
+MF	57 (GO:0016743)	GO:0008171	O-methyltransferase activity
+MF	57 (GO:0016743)	GO:0016743	carboxyl- or carbamoyltransferase activity
+MF	57 (GO:0016743)	GO:0016433	rRNA (adenine) methyltransferase activity
+MF	57 (GO:0016743)	GO:0008170	N-methyltransferase activity
+MF	57 (GO:0016743)	GO:0008173	RNA methyltransferase activity
+MF	57 (GO:0016743)	GO:0000179	rRNA (adenine-N6,N6-)-dimethyltransferase activity
+MF	57 (GO:0016743)	GO:0008168	methyltransferase activity
+MF	57 (GO:0016743)	GO:0008757	S-adenosylmethionine-dependent methyltransferase activity
+MF	57 (GO:0016743)	GO:0008649	rRNA methyltransferase activity
+MF	58 (GO:0016744)	GO:0016744	transketolase or transaldolase activity
+MF	59 (GO:0016746)	GO:0016746	acyltransferase activity
+MF	60 (GO:0016757)	GO:0016757	glycosyltransferase activity
+MF	61 (GO:0016765)	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+MF	62 (GO:0016769)	GO:0016769	transferase activity, transferring nitrogenous groups
+MF	63 (GO:0016772)	GO:0016772	transferase activity, transferring phosphorus-containing groups
+MF	64 (GO:0016774)	GO:0016774	phosphotransferase activity, carboxyl group as acceptor
+MF	65 (GO:0016776)	GO:0016776	phosphotransferase activity, phosphate group as acceptor
+MF	66 (GO:0016779)	GO:0000155	phosphorelay sensor kinase activity
+MF	66 (GO:0016779)	GO:0004673	protein histidine kinase activity
+MF	66 (GO:0016779)	GO:0016773	phosphotransferase activity, alcohol group as acceptor
+MF	66 (GO:0016779)	GO:0016301	kinase activity
+MF	66 (GO:0016779)	GO:0016775	phosphotransferase activity, nitrogenous group as acceptor
+MF	66 (GO:0016779)	GO:0016779	nucleotidyltransferase activity
+MF	66 (GO:0016779)	GO:0004674	protein serine/threonine kinase activity
+MF	66 (GO:0016779)	GO:0004672	protein kinase activity
+MF	67 (GO:0016780)	GO:0016780	phosphotransferase activity, for other substituted phosphate groups
+MF	68 (GO:0016782)	GO:0016782	transferase activity, transferring sulphur-containing groups
+MF	69 (GO:0016783)	GO:1990107	thiazole synthase activity
+MF	69 (GO:0016783)	GO:0031071	cysteine desulfurase activity
+MF	69 (GO:0016783)	GO:0008146	sulfotransferase activity
+MF	69 (GO:0016783)	GO:0016783	sulfurtransferase activity
+MF	69 (GO:0016783)	GO:0008410	CoA-transferase activity
+MF	70 (GO:0016787)	GO:0016787	hydrolase activity
+MF	71 (GO:0016788)	GO:0016788	hydrolase activity, acting on ester bonds
+MF	72 (GO:0016798)	GO:0016798	hydrolase activity, acting on glycosyl bonds
+MF	73 (GO:0016799)	GO:0004803	transposase activity
+MF	73 (GO:0016799)	GO:0004553	hydrolase activity, hydrolyzing O-glycosyl compounds
+MF	73 (GO:0016799)	GO:0019104	DNA N-glycosylase activity
+MF	73 (GO:0016799)	GO:0016799	hydrolase activity, hydrolyzing N-glycosyl compounds
+MF	73 (GO:0016799)	GO:0003678	DNA helicase activity
+MF	73 (GO:0016799)	GO:0004565	beta-galactosidase activity
+MF	73 (GO:0016799)	GO:0008422	beta-glucosidase activity
+MF	73 (GO:0016799)	GO:0008094	ATP-dependent activity, acting on DNA
+MF	73 (GO:0016799)	GO:0003905	alkylbase DNA N-glycosylase activity
+MF	73 (GO:0016799)	GO:0015925	galactosidase activity
+MF	73 (GO:0016799)	GO:0015926	glucosidase activity
+MF	73 (GO:0016799)	GO:0004536	DNA nuclease activity
+MF	73 (GO:0016799)	GO:0004564	beta-fructofuranosidase activity
+MF	74 (GO:0016805)	GO:0004180	carboxypeptidase activity
+MF	74 (GO:0016805)	GO:0016805	dipeptidase activity
+MF	75 (GO:0016810)	GO:0016810	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds
+MF	76 (GO:0016817)	GO:0016817	hydrolase activity, acting on acid anhydrides
+MF	77 (GO:0016822)	GO:0016822	hydrolase activity, acting on acid carbon-carbon bonds
+MF	78 (GO:0016823)	GO:0016823	hydrolase activity, acting on acid carbon-carbon bonds, in ketonic substances
+MF	79 (GO:0016829)	GO:0016829	lyase activity
+MF	80 (GO:0016833)	GO:0004609	phosphatidylserine decarboxylase activity
+MF	80 (GO:0016833)	GO:0003904	deoxyribodipyrimidine photo-lyase activity
+MF	80 (GO:0016833)	GO:0003913	DNA photolyase activity
+MF	80 (GO:0016833)	GO:0004068	aspartate 1-decarboxylase activity
+MF	80 (GO:0016833)	GO:0016832	aldehyde-lyase activity
+MF	80 (GO:0016833)	GO:0004049	anthranilate synthase activity
+MF	80 (GO:0016833)	GO:0016833	oxo-acid-lyase activity
+MF	80 (GO:0016833)	GO:0016831	carboxy-lyase activity
+MF	80 (GO:0016833)	GO:0004332	fructose-bisphosphate aldolase activity
+MF	80 (GO:0016833)	GO:0008701	4-hydroxy-2-oxovalerate aldolase activity
+MF	81 (GO:0016842)	GO:0050385	ureidoglycolate lyase activity
+MF	81 (GO:0016842)	GO:0016841	ammonia-lyase activity
+MF	81 (GO:0016842)	GO:0004397	histidine ammonia-lyase activity
+MF	81 (GO:0016842)	GO:0004056	argininosuccinate lyase activity
+MF	81 (GO:0016842)	GO:0016842	amidine-lyase activity
+MF	82 (GO:0016846)	GO:0016846	carbon-sulfur lyase activity
+MF	83 (GO:0016849)	GO:0016830	carbon-carbon lyase activity
+MF	83 (GO:0016849)	GO:0016835	carbon-oxygen lyase activity
+MF	83 (GO:0016849)	GO:0016849	phosphorus-oxygen lyase activity
+MF	83 (GO:0016849)	GO:0016840	carbon-nitrogen lyase activity
+MF	84 (GO:0016853)	GO:0016853	isomerase activity
+MF	85 (GO:0016872)	GO:0003755	peptidyl-prolyl cis-trans isomerase activity
+MF	85 (GO:0016872)	GO:0016866	intramolecular transferase activity
+MF	85 (GO:0016872)	GO:0016872	intramolecular lyase activity
+MF	85 (GO:0016872)	GO:0016860	intramolecular oxidoreductase activity
+MF	85 (GO:0016872)	GO:0016859	cis-trans isomerase activity
+MF	85 (GO:0016872)	GO:0003917	DNA topoisomerase type I (single strand cut, ATP-independent) activity
+MF	85 (GO:0016872)	GO:0004494	methylmalonyl-CoA mutase activity
+MF	85 (GO:0016872)	GO:0003916	DNA topoisomerase activity
+MF	85 (GO:0016872)	GO:0016868	intramolecular transferase activity, phosphotransferases
+MF	85 (GO:0016872)	GO:0016854	racemase and epimerase activity
+MF	86 (GO:0016874)	GO:0016874	ligase activity
+MF	87 (GO:0016886)	GO:0016405	CoA-ligase activity
+MF	87 (GO:0016886)	GO:0016211	ammonia ligase activity
+MF	87 (GO:0016886)	GO:0016884	carbon-nitrogen ligase activity, with glutamine as amido-N-donor
+MF	87 (GO:0016886)	GO:0016880	acid-ammonia (or amide) ligase activity
+MF	87 (GO:0016886)	GO:0008641	ubiquitin-like modifier activating enzyme activity
+MF	87 (GO:0016886)	GO:0016877	ligase activity, forming carbon-sulfur bonds
+MF	87 (GO:0016886)	GO:0016875	ligase activity, forming carbon-oxygen bonds
+MF	87 (GO:0016886)	GO:0016878	acid-thiol ligase activity
+MF	87 (GO:0016886)	GO:0004356	glutamine synthetase activity
+MF	87 (GO:0016886)	GO:0016879	ligase activity, forming carbon-nitrogen bonds
+MF	87 (GO:0016886)	GO:0016881	acid-amino acid ligase activity
+MF	87 (GO:0016886)	GO:0016886	ligase activity, forming phosphoric ester bonds
+MF	88 (GO:0016903)	GO:0016903	oxidoreductase activity, acting on the aldehyde or oxo group of donors
+MF	89 (GO:0017171)	GO:0017171	serine hydrolase activity
+MF	90 (GO:0019001)	GO:0019001	guanyl nucleotide binding
+MF	91 (GO:0019114)	GO:0016702	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen
+MF	91 (GO:0019114)	GO:0018576	catechol 1,2-dioxygenase activity
+MF	91 (GO:0019114)	GO:0016706	2-oxoglutarate-dependent dioxygenase activity
+MF	91 (GO:0019114)	GO:0018577	catechol 2,3-dioxygenase activity
+MF	91 (GO:0019114)	GO:0008941	nitric oxide dioxygenase activity
+MF	91 (GO:0019114)	GO:0019114	catechol dioxygenase activity
+MF	91 (GO:0019114)	GO:0004833	tryptophan 2,3-dioxygenase activity
+MF	91 (GO:0019114)	GO:0016708	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of two atoms of oxygen into one donor
+MF	91 (GO:0019114)	GO:0016703	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of one atom of oxygen (internal monooxygenases or internal mixed function oxidases)
+MF	92 (GO:0019200)	GO:0008865	fructokinase activity
+MF	92 (GO:0019200)	GO:0004340	glucokinase activity
+MF	92 (GO:0019200)	GO:0004396	hexokinase activity
+MF	92 (GO:0019200)	GO:0019200	carbohydrate kinase activity
+MF	93 (GO:0019205)	GO:0019205	nucleobase-containing compound kinase activity
+MF	94 (GO:0019825)	GO:0019825	oxygen binding
+MF	95 (GO:0019842)	GO:0019842	vitamin binding
+MF	96 (GO:0022884)	GO:0022884	macromolecule transmembrane transporter activity
+MF	97 (GO:0030145)	GO:0005507	copper ion binding
+MF	97 (GO:0030145)	GO:0008270	zinc ion binding
+MF	97 (GO:0030145)	GO:0030145	manganese ion binding
+MF	97 (GO:0030145)	GO:0005506	iron ion binding
+MF	98 (GO:0030151)	GO:0030151	molybdenum ion binding
+MF	99 (GO:0030246)	GO:0030246	carbohydrate binding
+MF	100 (GO:0030611)	GO:0030611	arsenate reductase activity
+MF	101 (GO:0030612)	GO:0030614	oxidoreductase activity, acting on phosphorus or arsenic in donors, disulfide as acceptor
+MF	101 (GO:0030612)	GO:0030612	arsenate reductase (thioredoxin) activity
+MF	101 (GO:0030612)	GO:0008794	arsenate reductase (glutaredoxin) activity
+MF	102 (GO:0030613)	GO:0030613	oxidoreductase activity, acting on phosphorus or arsenic in donors
+MF	103 (GO:0031406)	GO:0070967	coenzyme F420 binding
+MF	103 (GO:0031406)	GO:0031406	carboxylic acid binding
+MF	103 (GO:0031406)	GO:0033293	monocarboxylic acid binding
+MF	103 (GO:0031406)	GO:0008658	penicillin binding
+MF	103 (GO:0031406)	GO:0031418	L-ascorbic acid binding
+MF	103 (GO:0031406)	GO:0005536	glucose binding
+MF	104 (GO:0031419)	GO:0031419	cobalamin binding
+MF	104 (GO:0031419)	GO:0020037	heme binding
+MF	105 (GO:0033218)	GO:0033218	amide binding
+MF	106 (GO:0033818)	GO:0033818	beta-ketoacyl-acyl-carrier-protein synthase III activity
+MF	106 (GO:0033818)	GO:0016407	acetyltransferase activity
+MF	106 (GO:0033818)	GO:0004842	ubiquitin-protein transferase activity
+MF	106 (GO:0033818)	GO:0016410	N-acyltransferase activity
+MF	106 (GO:0033818)	GO:0016747	acyltransferase activity, transferring groups other than amino-acyl groups
+MF	106 (GO:0033818)	GO:0016408	C-acyltransferase activity
+MF	106 (GO:0033818)	GO:0004315	3-oxoacyl-[acyl-carrier-protein] synthase activity
+MF	106 (GO:0033818)	GO:0016755	aminoacyltransferase activity
+MF	106 (GO:0033818)	GO:0019787	ubiquitin-like protein transferase activity
+MF	106 (GO:0033818)	GO:0008374	O-acyltransferase activity
+MF	107 (GO:0035251)	GO:0003844	1,4-alpha-glucan branching enzyme activity
+MF	107 (GO:0035251)	GO:0004373	glycogen (starch) synthase activity
+MF	107 (GO:0035251)	GO:0035251	UDP-glucosyltransferase activity
+MF	107 (GO:0035251)	GO:0046527	glucosyltransferase activity
+MF	107 (GO:0035251)	GO:0016763	pentosyltransferase activity
+MF	107 (GO:0035251)	GO:0016758	hexosyltransferase activity
+MF	107 (GO:0035251)	GO:0008194	UDP-glycosyltransferase activity
+MF	108 (GO:0036094)	GO:0036094	small molecule binding
+MF	109 (GO:0042083)	GO:0042083	5,10-methylenetetrahydrofolate-dependent methyltransferase activity
+MF	110 (GO:0042803)	GO:0042803	protein homodimerization activity
+MF	111 (GO:0042887)	GO:0042887	amide transmembrane transporter activity
+MF	111 (GO:0042887)	GO:0015440	ABC-type peptide transporter activity
+MF	111 (GO:0042887)	GO:1904680	peptide transmembrane transporter activity
+MF	112 (GO:0042910)	GO:0008559	ABC-type xenobiotic transporter activity
+MF	112 (GO:0042910)	GO:0042910	xenobiotic transmembrane transporter activity
+MF	112 (GO:0042910)	GO:0022885	bacteriocin transmembrane transporter activity
+MF	112 (GO:0042910)	GO:0043214	ABC-type bacteriocin transporter activity
+MF	113 (GO:0043022)	GO:0043021	ribonucleoprotein complex binding
+MF	113 (GO:0043022)	GO:0043022	ribosome binding
+MF	113 (GO:0043022)	GO:0005518	collagen binding
+MF	114 (GO:0043167)	GO:0043167	ion binding
+MF	115 (GO:0043168)	GO:0043168	anion binding
+MF	116 (GO:0043169)	GO:0043169	cation binding
+MF	117 (GO:0043177)	GO:0043177	organic acid binding
+MF	118 (GO:0043546)	GO:0043546	molybdopterin cofactor binding
+MF	119 (GO:0043565)	GO:0043565	sequence-specific DNA binding
+MF	120 (GO:0044877)	GO:0044877	protein-containing complex binding
+MF	121 (GO:0046872)	GO:0046872	metal ion binding
+MF	121 (GO:0046872)	GO:0046914	transition metal ion binding
+MF	122 (GO:0046906)	GO:0046906	tetrapyrrole binding
+MF	123 (GO:0046912)	GO:0046912	acyltransferase activity, acyl groups converted into alkyl on transfer
+MF	124 (GO:0046943)	GO:0033283	ATPase-coupled organic acid transmembrane transporter activity
+MF	124 (GO:0046943)	GO:0033232	ABC-type D-methionine transporter activity
+MF	124 (GO:0046943)	GO:0033284	ATPase-coupled carboxylic acid transmembrane transporter activity
+MF	124 (GO:0046943)	GO:0042943	D-amino acid transmembrane transporter activity
+MF	124 (GO:0046943)	GO:0015424	ABC-type amino acid transporter activity
+MF	124 (GO:0046943)	GO:0005342	organic acid transmembrane transporter activity
+MF	124 (GO:0046943)	GO:0015171	amino acid transmembrane transporter activity
+MF	124 (GO:0046943)	GO:0046943	carboxylic acid transmembrane transporter activity
+MF	124 (GO:0046943)	GO:0043865	methionine transmembrane transporter activity
+MF	124 (GO:0046943)	GO:0008514	organic anion transmembrane transporter activity
+MF	125 (GO:0047429)	GO:0003924	GTPase activity
+MF	125 (GO:0047429)	GO:0016887	ATP hydrolysis activity
+MF	125 (GO:0047429)	GO:0016462	pyrophosphatase activity
+MF	125 (GO:0047429)	GO:0047429	nucleoside triphosphate diphosphatase activity
+MF	125 (GO:0047429)	GO:0017111	ribonucleoside triphosphate phosphatase activity
+MF	125 (GO:0047429)	GO:0016818	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides
+MF	126 (GO:0047448)	GO:0008446	GDP-mannose 4,6-dehydratase activity
+MF	126 (GO:0047448)	GO:0016838	carbon-oxygen lyase activity, acting on phosphates
+MF	126 (GO:0047448)	GO:0004730	pseudouridylate synthase activity
+MF	126 (GO:0047448)	GO:0047448	5-dehydro-4-deoxyglucarate dehydratase activity
+MF	126 (GO:0047448)	GO:0008927	mannonate dehydratase activity
+MF	126 (GO:0047448)	GO:0003861	3-isopropylmalate dehydratase activity
+MF	126 (GO:0047448)	GO:0016836	hydro-lyase activity
+MF	127 (GO:0048029)	GO:0048029	monosaccharide binding
+MF	128 (GO:0048038)	GO:0048038	quinone binding
+MF	129 (GO:0050044)	GO:0004452	isopentenyl-diphosphate delta-isomerase activity
+MF	129 (GO:0050044)	GO:0046523	S-methyl-5-thioribose-1-phosphate isomerase activity
+MF	129 (GO:0050044)	GO:0004347	glucose-6-phosphate isomerase activity
+MF	129 (GO:0050044)	GO:0008697	4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase activity
+MF	129 (GO:0050044)	GO:0050044	galactose-6-phosphate isomerase activity
+MF	129 (GO:0050044)	GO:0016861	intramolecular oxidoreductase activity, interconverting aldoses and ketoses
+MF	129 (GO:0050044)	GO:0016863	intramolecular oxidoreductase activity, transposing C=C bonds
+MF	130 (GO:0050480)	GO:0008800	beta-lactamase activity
+MF	130 (GO:0050480)	GO:0017168	5-oxoprolinase (ATP-hydrolyzing) activity
+MF	130 (GO:0050480)	GO:0050480	imidazolonepropionase activity
+MF	131 (GO:0050568)	GO:0000034	adenine deaminase activity
+MF	131 (GO:0050568)	GO:0009014	succinyl-diaminopimelate desuccinylase activity
+MF	131 (GO:0050568)	GO:0016813	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amidines
+MF	131 (GO:0050568)	GO:0016814	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amidines
+MF	131 (GO:0050568)	GO:0004359	glutaminase activity
+MF	131 (GO:0050568)	GO:0008745	N-acetylmuramoyl-L-alanine amidase activity
+MF	131 (GO:0050568)	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+MF	131 (GO:0050568)	GO:0019239	deaminase activity
+MF	131 (GO:0050568)	GO:0009039	urease activity
+MF	131 (GO:0050568)	GO:0016812	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides
+MF	131 (GO:0050568)	GO:0050568	protein-glutamine glutaminase activity
+MF	131 (GO:0050568)	GO:0019238	cyclohydrolase activity
+MF	132 (GO:0050660)	GO:0050660	flavin adenine dinucleotide binding
+MF	133 (GO:0050661)	GO:0050661	NADP binding
+MF	134 (GO:0050997)	GO:0050997	quaternary ammonium group binding
+MF	135 (GO:0051082)	GO:0046983	protein dimerization activity
+MF	135 (GO:0051082)	GO:0051082	unfolded protein binding
+MF	135 (GO:0051082)	GO:0005102	signaling receptor binding
+MF	135 (GO:0051082)	GO:0042802	identical protein binding
+MF	136 (GO:0051213)	GO:0051213	dioxygenase activity
+MF	137 (GO:0051287)	GO:0051287	NAD binding
+MF	138 (GO:0051536)	GO:0051536	iron-sulfur cluster binding
+MF	138 (GO:0051536)	GO:0051539	4 iron, 4 sulfur cluster binding
+MF	138 (GO:0051536)	GO:0051537	2 iron, 2 sulfur cluster binding
+MF	139 (GO:0051540)	GO:0051540	metal cluster binding
+MF	140 (GO:0052689)	GO:0008253	5'-nucleotidase activity
+MF	140 (GO:0052689)	GO:0016791	phosphatase activity
+MF	140 (GO:0052689)	GO:0004540	RNA nuclease activity
+MF	140 (GO:0052689)	GO:0016790	thiolester hydrolase activity
+MF	140 (GO:0052689)	GO:0008252	nucleotidase activity
+MF	140 (GO:0052689)	GO:0004721	phosphoprotein phosphatase activity
+MF	140 (GO:0052689)	GO:0004725	protein tyrosine phosphatase activity
+MF	140 (GO:0052689)	GO:0008408	3'-5' exonuclease activity
+MF	140 (GO:0052689)	GO:0019203	carbohydrate phosphatase activity
+MF	140 (GO:0052689)	GO:0042132	fructose 1,6-bisphosphate 1-phosphatase activity
+MF	140 (GO:0052689)	GO:0004519	endonuclease activity
+MF	140 (GO:0052689)	GO:0106411	XMP 5'-nucleosidase activity
+MF	140 (GO:0052689)	GO:0016888	endodeoxyribonuclease activity, producing 5'-phosphomonoesters
+MF	140 (GO:0052689)	GO:0050308	sugar-phosphatase activity
+MF	140 (GO:0052689)	GO:0004518	nuclease activity
+MF	140 (GO:0052689)	GO:0004521	RNA endonuclease activity
+MF	140 (GO:0052689)	GO:0004527	exonuclease activity
+MF	140 (GO:0052689)	GO:0008081	phosphoric diester hydrolase activity
+MF	140 (GO:0052689)	GO:0042578	phosphoric ester hydrolase activity
+MF	140 (GO:0052689)	GO:0004520	DNA endonuclease activity
+MF	140 (GO:0052689)	GO:0016893	endonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 5'-phosphomonoesters
+MF	140 (GO:0052689)	GO:0052689	carboxylic ester hydrolase activity
+MF	140 (GO:0052689)	GO:0009036	type II site-specific deoxyribonuclease activity
+MF	140 (GO:0052689)	GO:0015666	restriction endodeoxyribonuclease activity
+MF	141 (GO:0060089)	GO:0060089	molecular transducer activity
+MF	142 (GO:0061579)	GO:0034069	aminoglycoside N-acetyltransferase activity
+MF	142 (GO:0061579)	GO:0003988	acetyl-CoA C-acyltransferase activity
+MF	142 (GO:0061579)	GO:0046353	aminoglycoside 3-N-acetyltransferase activity
+MF	142 (GO:0061579)	GO:0047663	aminoglycoside 6'-N-acetyltransferase activity
+MF	142 (GO:0061579)	GO:0016453	C-acetyltransferase activity
+MF	142 (GO:0061579)	GO:0003985	acetyl-CoA C-acetyltransferase activity
+MF	142 (GO:0061579)	GO:0061579	N-acyl homoserine lactone synthase activity
+MF	142 (GO:0061579)	GO:0008080	N-acetyltransferase activity
+MF	142 (GO:0061579)	GO:0016413	O-acetyltransferase activity
+MF	143 (GO:0061783)	GO:0061783	peptidoglycan muralytic activity
+MF	144 (GO:0062192)	GO:0003978	UDP-glucose 4-epimerase activity
+MF	144 (GO:0062192)	GO:0047661	amino-acid racemase activity
+MF	144 (GO:0062192)	GO:0016855	racemase and epimerase activity, acting on amino acids and derivatives
+MF	144 (GO:0062192)	GO:0008761	UDP-N-acetylglucosamine 2-epimerase activity
+MF	144 (GO:0062192)	GO:0016857	racemase and epimerase activity, acting on carbohydrates and derivatives
+MF	144 (GO:0062192)	GO:0062192	L-rhamnose mutarotase activity
+MF	144 (GO:0062192)	GO:0036361	racemase activity, acting on amino acids and derivatives
+MF	144 (GO:0062192)	GO:0008784	alanine racemase activity
+MF	145 (GO:0070001)	GO:0004252	serine-type endopeptidase activity
+MF	145 (GO:0070001)	GO:0004222	metalloendopeptidase activity
+MF	145 (GO:0070001)	GO:0008237	metallopeptidase activity
+MF	145 (GO:0070001)	GO:0008236	serine-type peptidase activity
+MF	145 (GO:0070001)	GO:0004190	aspartic-type endopeptidase activity
+MF	145 (GO:0070001)	GO:0004175	endopeptidase activity
+MF	145 (GO:0070001)	GO:0008234	cysteine-type peptidase activity
+MF	145 (GO:0070001)	GO:0004197	cysteine-type endopeptidase activity
+MF	145 (GO:0070001)	GO:0070001	aspartic-type peptidase activity
+MF	145 (GO:0070001)	GO:0008238	exopeptidase activity
+MF	146 (GO:0070403)	GO:0070403	NAD+ binding
+MF	147 (GO:0070568)	GO:0003887	DNA-directed DNA polymerase activity
+MF	147 (GO:0070568)	GO:0003899	DNA-directed 5'-3' RNA polymerase activity
+MF	147 (GO:0070568)	GO:0034061	DNA polymerase activity
+MF	147 (GO:0070568)	GO:0070566	adenylyltransferase activity
+MF	147 (GO:0070568)	GO:0070568	guanylyltransferase activity
+MF	147 (GO:0070568)	GO:0097747	RNA polymerase activity
+MF	147 (GO:0070568)	GO:0034062	5'-3' RNA polymerase activity
+MF	148 (GO:0071949)	GO:0071949	FAD binding
+MF	149 (GO:0090729)	GO:0090729	toxin activity
+MF	150 (GO:0097159)	GO:0097159	organic cyclic compound binding
+MF	151 (GO:0097351)	GO:0097351	toxin sequestering activity
+MF	152 (GO:0097367)	GO:0097367	carbohydrate derivative binding
+MF	153 (GO:0098772)	GO:0098772	molecular function regulator activity
+MF	154 (GO:0140096)	GO:0140096	catalytic activity, acting on a protein
+MF	155 (GO:0140098)	GO:0140097	catalytic activity, acting on DNA
+MF	155 (GO:0140098)	GO:0004386	helicase activity
+MF	155 (GO:0140098)	GO:0140102	catalytic activity, acting on a rRNA
+MF	155 (GO:0140098)	GO:0140098	catalytic activity, acting on RNA
+MF	155 (GO:0140098)	GO:0004812	aminoacyl-tRNA ligase activity
+MF	155 (GO:0140098)	GO:0140101	catalytic activity, acting on a tRNA
+MF	156 (GO:0140104)	GO:0140104	molecular carrier activity
+MF	157 (GO:0140299)	GO:0140299	small molecule sensor activity
+MF	158 (GO:0140313)	GO:0140313	molecular sequestering activity
+MF	159 (GO:0140318)	GO:0140318	protein transporter activity
+MF	160 (GO:0140640)	GO:0140640	catalytic activity, acting on a nucleic acid
+MF	161 (GO:0140657)	GO:0140657	ATP-dependent activity
+MF	162 (GO:0140678)	GO:0060589	nucleoside-triphosphatase regulator activity
+MF	162 (GO:0140678)	GO:0072586	DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) regulator activity
+MF	162 (GO:0140678)	GO:0060590	ATPase regulator activity
+MF	162 (GO:0140678)	GO:0030234	enzyme regulator activity
+MF	162 (GO:0140678)	GO:0004857	enzyme inhibitor activity
+MF	162 (GO:0140678)	GO:0042030	ATPase inhibitor activity
+MF	162 (GO:0140678)	GO:0008657	DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) inhibitor activity
+MF	162 (GO:0140678)	GO:0140677	molecular function activator activity
+MF	162 (GO:0140678)	GO:0140678	molecular function inhibitor activity
+MF	162 (GO:0140678)	GO:0030695	GTPase regulator activity
+MF	162 (GO:0140678)	GO:0008047	enzyme activator activity
+MF	163 (GO:0140911)	GO:0140911	pore-forming activity
+MF	164 (GO:1901265)	GO:1901265	nucleoside phosphate binding
+MF	165 (GO:1901363)	GO:1901363	heterocyclic compound binding
+MF	166 (GO:1901505)	GO:0015169	glycerol-3-phosphate transmembrane transporter activity
+MF	166 (GO:1901505)	GO:1901505	carbohydrate derivative transmembrane transporter activity
+MF	167 (GO:1901681)	GO:1901681	sulfur compound binding
+MF	168 (GO:1901682)	GO:1901682	sulfur compound transmembrane transporter activity
+MF	169 (GO:1901702)	GO:0042625	ATPase-coupled ion transmembrane transporter activity
+MF	169 (GO:1901702)	GO:0140359	ABC-type transporter activity
+MF	169 (GO:1901702)	GO:0015075	monoatomic ion transmembrane transporter activity
+MF	169 (GO:1901702)	GO:0008556	P-type potassium transmembrane transporter activity
+MF	169 (GO:1901702)	GO:0140358	P-type transmembrane transporter activity
+MF	169 (GO:1901702)	GO:0015318	inorganic molecular entity transmembrane transporter activity
+MF	169 (GO:1901702)	GO:0015662	P-type ion transporter activity
+MF	169 (GO:1901702)	GO:0015399	primary active transmembrane transporter activity
+MF	169 (GO:1901702)	GO:0042626	ATPase-coupled transmembrane transporter activity
+MF	169 (GO:1901702)	GO:0022857	transmembrane transporter activity
+MF	169 (GO:1901702)	GO:0015416	ABC-type phosphonate transporter activity
+MF	169 (GO:1901702)	GO:0022804	active transmembrane transporter activity
+MF	169 (GO:1901702)	GO:0008324	monoatomic cation transmembrane transporter activity
+MF	169 (GO:1901702)	GO:0015453	oxidoreduction-driven active transmembrane transporter activity
+MF	169 (GO:1901702)	GO:0015297	antiporter activity
+MF	169 (GO:1901702)	GO:0015291	secondary active transmembrane transporter activity
+MF	169 (GO:1901702)	GO:0019829	ATPase-coupled monoatomic cation transmembrane transporter activity
+MF	169 (GO:1901702)	GO:0015293	symporter activity
+MF	169 (GO:1901702)	GO:1901702	salt transmembrane transporter activity
+MF	169 (GO:1901702)	GO:0022803	passive transmembrane transporter activity
+MF	169 (GO:1901702)	GO:0022853	active monoatomic ion transmembrane transporter activity
+MF	170 (GO:1903425)	GO:0015079	potassium ion transmembrane transporter activity
+MF	170 (GO:1903425)	GO:0005253	monoatomic anion channel activity
+MF	170 (GO:1903425)	GO:0015252	proton channel activity
+MF	170 (GO:1903425)	GO:0015109	chromate transmembrane transporter activity
+MF	170 (GO:1903425)	GO:0015081	sodium ion transmembrane transporter activity
+MF	170 (GO:1903425)	GO:1903425	fluoride transmembrane transporter activity
+MF	170 (GO:1903425)	GO:0015250	water channel activity
+MF	170 (GO:1903425)	GO:0015116	sulfate transmembrane transporter activity
+MF	170 (GO:1903425)	GO:0022834	ligand-gated channel activity
+MF	170 (GO:1903425)	GO:0043682	P-type divalent copper transporter activity
+MF	170 (GO:1903425)	GO:0046873	metal ion transmembrane transporter activity
+MF	170 (GO:1903425)	GO:0008509	monoatomic anion transmembrane transporter activity
+MF	170 (GO:1903425)	GO:0022829	wide pore channel activity
+MF	170 (GO:1903425)	GO:0015078	proton transmembrane transporter activity
+MF	170 (GO:1903425)	GO:0046933	proton-transporting ATP synthase activity, rotational mechanism
+MF	170 (GO:1903425)	GO:0015267	channel activity
+MF	170 (GO:1903425)	GO:0005375	copper ion transmembrane transporter activity
+MF	170 (GO:1903425)	GO:0005261	monoatomic cation channel activity
+MF	170 (GO:1903425)	GO:0044769	ATPase activity, coupled to transmembrane movement of ions, rotational mechanism
+MF	170 (GO:1903425)	GO:0046915	transition metal ion transmembrane transporter activity
+MF	170 (GO:1903425)	GO:0015473	fimbrial usher porin activity
+MF	170 (GO:1903425)	GO:0015103	inorganic anion transmembrane transporter activity
+MF	170 (GO:1903425)	GO:0022836	gated channel activity
+MF	170 (GO:1903425)	GO:0000099	sulfur amino acid transmembrane transporter activity
+MF	170 (GO:1903425)	GO:0046961	proton-transporting ATPase activity, rotational mechanism
+MF	170 (GO:1903425)	GO:0022890	inorganic cation transmembrane transporter activity
+MF	170 (GO:1903425)	GO:0022839	monoatomic ion gated channel activity
+MF	170 (GO:1903425)	GO:0005372	water transmembrane transporter activity
+MF	170 (GO:1903425)	GO:0043225	ATPase-coupled inorganic anion transmembrane transporter activity
+MF	170 (GO:1903425)	GO:0015276	ligand-gated monoatomic ion channel activity
+MF	170 (GO:1903425)	GO:0005216	monoatomic ion channel activity
+MF	170 (GO:1903425)	GO:0015419	ABC-type sulfate transporter activity
+MF	170 (GO:1903425)	GO:0015288	porin activity
+MF	171 (GO:1904047)	GO:0030170	pyridoxal phosphate binding
+MF	171 (GO:1904047)	GO:0070279	vitamin B6 binding
+MF	171 (GO:1904047)	GO:0030976	thiamine pyrophosphate binding
+MF	171 (GO:1904047)	GO:0008199	ferric iron binding
+MF	171 (GO:1904047)	GO:1904047	S-adenosyl-L-methionine binding
+BP	0 (GO:0005975)	GO:0005975	carbohydrate metabolic process
+BP	1 (GO:0006040)	GO:0006040	amino sugar metabolic process
+BP	2 (GO:0006063)	GO:0006063	uronic acid metabolic process
+BP	3 (GO:0006081)	GO:0006081	cellular aldehyde metabolic process
+BP	4 (GO:0006091)	GO:0006091	generation of precursor metabolites and energy
+BP	5 (GO:0006259)	GO:0006259	DNA metabolic process
+BP	6 (GO:0006276)	GO:0006276	plasmid maintenance
+BP	7 (GO:0006352)	GO:0006352	DNA-templated transcription initiation
+BP	8 (GO:0006457)	GO:0006457	protein folding
+BP	9 (GO:0006508)	GO:0006508	proteolysis
+BP	10 (GO:0006575)	GO:0006575	cellular modified amino acid metabolic process
+BP	11 (GO:0006629)	GO:0006629	lipid metabolic process
+BP	12 (GO:0006725)	GO:0006725	cellular aromatic compound metabolic process
+BP	13 (GO:0006766)	GO:0006766	vitamin metabolic process
+BP	14 (GO:0006790)	GO:0006790	sulfur compound metabolic process
+BP	15 (GO:0006793)	GO:0006793	phosphorus metabolic process
+BP	16 (GO:0006807)	GO:0006807	nitrogen compound metabolic process
+BP	17 (GO:0006811)	GO:0006811	monoatomic ion transport
+BP	18 (GO:0006979)	GO:0006979	response to oxidative stress
+BP	18 (GO:0006979)	GO:0042742	defense response to bacterium
+BP	18 (GO:0006979)	GO:0044409	entry into host
+BP	18 (GO:0006979)	GO:0044000	movement in host
+BP	18 (GO:0006979)	GO:0031668	cellular response to extracellular stimulus
+BP	18 (GO:0006979)	GO:0009372	quorum sensing
+BP	18 (GO:0006979)	GO:0046718	viral entry into host cell
+BP	18 (GO:0006979)	GO:0009432	SOS response
+BP	18 (GO:0006979)	GO:0140546	defense response to symbiont
+BP	18 (GO:0006979)	GO:0009991	response to extracellular stimulus
+BP	18 (GO:0006979)	GO:0060245	detection of cell density
+BP	18 (GO:0006979)	GO:0033554	cellular response to stress
+BP	18 (GO:0006979)	GO:0009615	response to virus
+BP	18 (GO:0006979)	GO:0009617	response to bacterium
+BP	18 (GO:0006979)	GO:0001907	killing by symbiont of host cells
+BP	18 (GO:0006979)	GO:0006935	chemotaxis
+BP	18 (GO:0006979)	GO:0006281	DNA repair
+BP	18 (GO:0006979)	GO:0044403	biological process involved in symbiotic interaction
+BP	18 (GO:0006979)	GO:0031640	killing of cells of another organism
+BP	18 (GO:0006979)	GO:0006284	base-excision repair
+BP	18 (GO:0006979)	GO:0009307	DNA restriction-modification system
+BP	18 (GO:0006979)	GO:0031667	response to nutrient levels
+BP	18 (GO:0006979)	GO:0099046	clearance of foreign intracellular nucleic acids
+BP	18 (GO:0006979)	GO:0050829	defense response to Gram-negative bacterium
+BP	18 (GO:0006979)	GO:0051707	response to other organism
+BP	18 (GO:0006979)	GO:0044355	clearance of foreign intracellular DNA
+BP	18 (GO:0006979)	GO:0009595	detection of biotic stimulus
+BP	18 (GO:0006979)	GO:0051701	biological process involved in interaction with host
+BP	18 (GO:0006979)	GO:0050830	defense response to Gram-positive bacterium
+BP	18 (GO:0006979)	GO:0006952	defense response
+BP	18 (GO:0006979)	GO:0098542	defense response to other organism
+BP	18 (GO:0006979)	GO:0006974	DNA damage response
+BP	18 (GO:0006979)	GO:0043207	response to external biotic stimulus
+BP	18 (GO:0006979)	GO:0051607	defense response to virus
+BP	18 (GO:0006979)	GO:0042330	taxis
+BP	18 (GO:0006979)	GO:0071496	cellular response to external stimulus
+BP	19 (GO:0007049)	GO:0007049	cell cycle
+BP	20 (GO:0007154)	GO:0007154	cell communication
+BP	21 (GO:0007155)	GO:0007155	cell adhesion
+BP	22 (GO:0008152)	GO:0008152	metabolic process
+BP	23 (GO:0008219)	GO:0008219	cell death
+BP	24 (GO:0008283)	GO:0008283	cell population proliferation
+BP	25 (GO:0008653)	GO:0008653	lipopolysaccharide metabolic process
+BP	26 (GO:0009056)	GO:0009056	catabolic process
+BP	27 (GO:0009058)	GO:0009058	biosynthetic process
+BP	28 (GO:0009292)	GO:0009292	horizontal gene transfer
+BP	29 (GO:0009294)	GO:0009294	DNA-mediated transformation
+BP	30 (GO:0009308)	GO:0009308	amine metabolic process
+BP	31 (GO:0009451)	GO:0009451	RNA modification
+BP	32 (GO:0009605)	GO:0009605	response to external stimulus
+BP	33 (GO:0009607)	GO:0009607	response to biotic stimulus
+BP	34 (GO:0009628)	GO:0009628	response to abiotic stimulus
+BP	35 (GO:0009987)	GO:0009987	cellular process
+BP	36 (GO:0010467)	GO:0010467	gene expression
+BP	37 (GO:0010564)	GO:1901891	regulation of cell septum assembly
+BP	37 (GO:0010564)	GO:0010564	regulation of cell cycle process
+BP	37 (GO:0010564)	GO:0032954	regulation of cytokinetic process
+BP	37 (GO:0010564)	GO:0032955	regulation of division septum assembly
+BP	38 (GO:0010817)	GO:0010817	regulation of hormone levels
+BP	38 (GO:0010817)	GO:0009690	cytokinin metabolic process
+BP	38 (GO:0010817)	GO:0042446	hormone biosynthetic process
+BP	38 (GO:0010817)	GO:0022603	regulation of anatomical structure morphogenesis
+BP	38 (GO:0010817)	GO:0009691	cytokinin biosynthetic process
+BP	38 (GO:0010817)	GO:0022604	regulation of cell morphogenesis
+BP	38 (GO:0010817)	GO:0042445	hormone metabolic process
+BP	38 (GO:0010817)	GO:0008360	regulation of cell shape
+BP	39 (GO:0015942)	GO:0015942	formate metabolic process
+BP	40 (GO:0015979)	GO:0015979	photosynthesis
+BP	41 (GO:0016032)	GO:0016032	viral process
+BP	42 (GO:0016051)	GO:0005996	monosaccharide metabolic process
+BP	42 (GO:0016051)	GO:0016051	carbohydrate biosynthetic process
+BP	42 (GO:0016051)	GO:0005976	polysaccharide metabolic process
+BP	42 (GO:0016051)	GO:0009311	oligosaccharide metabolic process
+BP	43 (GO:0016108)	GO:0008299	isoprenoid biosynthetic process
+BP	43 (GO:0016108)	GO:0006721	terpenoid metabolic process
+BP	43 (GO:0016108)	GO:0016114	terpenoid biosynthetic process
+BP	43 (GO:0016108)	GO:0016108	tetraterpenoid metabolic process
+BP	44 (GO:0016311)	GO:0016311	dephosphorylation
+BP	45 (GO:0016999)	GO:0016999	antibiotic metabolic process
+BP	46 (GO:0017001)	GO:0072340	lactam catabolic process
+BP	46 (GO:0017001)	GO:0017001	antibiotic catabolic process
+BP	46 (GO:0017001)	GO:0017000	antibiotic biosynthetic process
+BP	46 (GO:0017001)	GO:0030653	beta-lactam antibiotic metabolic process
+BP	46 (GO:0017001)	GO:0030655	beta-lactam antibiotic catabolic process
+BP	47 (GO:0019184)	GO:0019184	nonribosomal peptide biosynthetic process
+BP	48 (GO:0019538)	GO:0019538	protein metabolic process
+BP	49 (GO:0019634)	GO:0019634	organic phosphonate metabolic process
+BP	50 (GO:0019700)	GO:0019700	organic phosphonate catabolic process
+BP	51 (GO:0019748)	GO:0019748	secondary metabolic process
+BP	52 (GO:0019835)	GO:0019835	cytolysis
+BP	53 (GO:0022402)	GO:0007059	chromosome segregation
+BP	53 (GO:0022402)	GO:0090529	cell septum assembly
+BP	53 (GO:0022402)	GO:0000917	division septum assembly
+BP	53 (GO:0022402)	GO:0022402	cell cycle process
+BP	53 (GO:0022402)	GO:0000910	cytokinesis
+BP	53 (GO:0022402)	GO:0032506	cytokinetic process
+BP	54 (GO:0022411)	GO:0022411	cellular component disassembly
+BP	55 (GO:0022900)	GO:0045333	cellular respiration
+BP	55 (GO:0022900)	GO:0009060	aerobic respiration
+BP	55 (GO:0022900)	GO:0009061	anaerobic respiration
+BP	55 (GO:0022900)	GO:0006119	oxidative phosphorylation
+BP	55 (GO:0022900)	GO:0006099	tricarboxylic acid cycle
+BP	55 (GO:0022900)	GO:0019684	photosynthesis, light reaction
+BP	55 (GO:0022900)	GO:0042773	ATP synthesis coupled electron transport
+BP	55 (GO:0022900)	GO:0022900	electron transport chain
+BP	55 (GO:0022900)	GO:0022904	respiratory electron transport chain
+BP	55 (GO:0022900)	GO:0015980	energy derivation by oxidation of organic compounds
+BP	55 (GO:0022900)	GO:0006112	energy reserve metabolic process
+BP	56 (GO:0030030)	GO:0030030	cell projection organization
+BP	57 (GO:0032196)	GO:0032196	transposition
+BP	58 (GO:0032259)	GO:0032259	methylation
+BP	59 (GO:0032502)	GO:0032502	developmental process
+BP	60 (GO:0032984)	GO:0032984	protein-containing complex disassembly
+BP	61 (GO:0033013)	GO:0033013	tetrapyrrole metabolic process
+BP	62 (GO:0033014)	GO:0046140	corrin biosynthetic process
+BP	62 (GO:0033014)	GO:0009236	cobalamin biosynthetic process
+BP	62 (GO:0033014)	GO:0033014	tetrapyrrole biosynthetic process
+BP	62 (GO:0033014)	GO:0009235	cobalamin metabolic process
+BP	62 (GO:0033014)	GO:0015009	corrin metabolic process
+BP	63 (GO:0033036)	GO:0033036	macromolecule localization
+BP	64 (GO:0033037)	GO:0033037	polysaccharide localization
+BP	65 (GO:0034219)	GO:0034219	carbohydrate transmembrane transport
+BP	65 (GO:0034219)	GO:0015774	polysaccharide transport
+BP	65 (GO:0034219)	GO:0015772	oligosaccharide transport
+BP	65 (GO:0034219)	GO:0009401	phosphoenolpyruvate-dependent sugar phosphotransferase system
+BP	65 (GO:0034219)	GO:0098704	carbohydrate import across plasma membrane
+BP	66 (GO:0034404)	GO:0034404	nucleobase-containing small molecule biosynthetic process
+BP	66 (GO:0034404)	GO:0009225	nucleotide-sugar metabolic process
+BP	66 (GO:0034404)	GO:0009112	nucleobase metabolic process
+BP	67 (GO:0034641)	GO:0034641	cellular nitrogen compound metabolic process
+BP	68 (GO:0034660)	GO:0006400	tRNA modification
+BP	68 (GO:0034660)	GO:0043039	tRNA aminoacylation
+BP	68 (GO:0034660)	GO:0034470	ncRNA processing
+BP	68 (GO:0034660)	GO:0006399	tRNA metabolic process
+BP	68 (GO:0034660)	GO:0031167	rRNA methylation
+BP	68 (GO:0034660)	GO:0006518	peptide metabolic process
+BP	68 (GO:0034660)	GO:0006418	tRNA aminoacylation for protein translation
+BP	68 (GO:0034660)	GO:0016072	rRNA metabolic process
+BP	68 (GO:0034660)	GO:0008033	tRNA processing
+BP	68 (GO:0034660)	GO:0006412	translation
+BP	68 (GO:0034660)	GO:0070475	rRNA base methylation
+BP	68 (GO:0034660)	GO:0043604	amide biosynthetic process
+BP	68 (GO:0034660)	GO:0006396	RNA processing
+BP	68 (GO:0034660)	GO:0034660	ncRNA metabolic process
+BP	68 (GO:0034660)	GO:0001510	RNA methylation
+BP	68 (GO:0034660)	GO:0043043	peptide biosynthetic process
+BP	69 (GO:0035556)	GO:0000160	phosphorelay signal transduction system
+BP	69 (GO:0035556)	GO:0051716	cellular response to stimulus
+BP	69 (GO:0035556)	GO:0006950	response to stress
+BP	69 (GO:0035556)	GO:0035556	intracellular signal transduction
+BP	69 (GO:0035556)	GO:0007267	cell-cell signaling
+BP	69 (GO:0035556)	GO:0007165	signal transduction
+BP	70 (GO:0040011)	GO:0040011	locomotion
+BP	71 (GO:0042127)	GO:0042127	regulation of cell population proliferation
+BP	72 (GO:0042157)	GO:0042157	lipoprotein metabolic process
+BP	73 (GO:0042158)	GO:0042158	lipoprotein biosynthetic process
+BP	74 (GO:0042180)	GO:0042180	cellular ketone metabolic process
+BP	75 (GO:0042219)	GO:0009437	carnitine metabolic process
+BP	75 (GO:0042219)	GO:0006577	amino-acid betaine metabolic process
+BP	75 (GO:0042219)	GO:0042219	cellular modified amino acid catabolic process
+BP	76 (GO:0042221)	GO:0042221	response to chemical
+BP	77 (GO:0042402)	GO:0006576	biogenic amine metabolic process
+BP	77 (GO:0042402)	GO:0006569	tryptophan catabolic process
+BP	77 (GO:0042402)	GO:0006595	polyamine metabolic process
+BP	77 (GO:0042402)	GO:0009310	amine catabolic process
+BP	77 (GO:0042402)	GO:0019441	tryptophan catabolic process to kynurenine
+BP	77 (GO:0042402)	GO:0006596	polyamine biosynthetic process
+BP	77 (GO:0042402)	GO:0008295	spermidine biosynthetic process
+BP	77 (GO:0042402)	GO:0008216	spermidine metabolic process
+BP	77 (GO:0042402)	GO:0006598	polyamine catabolic process
+BP	77 (GO:0042402)	GO:0042402	cellular biogenic amine catabolic process
+BP	77 (GO:0042402)	GO:0009309	amine biosynthetic process
+BP	77 (GO:0042402)	GO:0042401	biogenic amine biosynthetic process
+BP	78 (GO:0042430)	GO:0042430	indole-containing compound metabolic process
+BP	79 (GO:0042440)	GO:0042440	pigment metabolic process
+BP	80 (GO:0042537)	GO:0042537	benzene-containing compound metabolic process
+BP	81 (GO:0042558)	GO:0042558	pteridine-containing compound metabolic process
+BP	82 (GO:0042592)	GO:0042592	homeostatic process
+BP	83 (GO:0042908)	GO:0042908	xenobiotic transport
+BP	84 (GO:0043094)	GO:0043094	cellular metabolic compound salvage
+BP	85 (GO:0043170)	GO:0043170	macromolecule metabolic process
+BP	86 (GO:0043412)	GO:0043412	macromolecule modification
+BP	87 (GO:0043414)	GO:0043414	macromolecule methylation
+BP	88 (GO:0043603)	GO:0043603	amide metabolic process
+BP	89 (GO:0043639)	GO:0018962	3-phenylpropionate metabolic process
+BP	89 (GO:0043639)	GO:0019585	glucuronate metabolic process
+BP	89 (GO:0043639)	GO:0043639	benzoate catabolic process
+BP	89 (GO:0043639)	GO:0006064	glucuronate catabolic process
+BP	89 (GO:0043639)	GO:0018874	benzoate metabolic process
+BP	89 (GO:0043639)	GO:0010128	benzoate catabolic process via CoA ligation
+BP	89 (GO:0043639)	GO:0018875	anaerobic benzoate metabolic process
+BP	90 (GO:0043687)	GO:0043687	post-translational protein modification
+BP	91 (GO:0044087)	GO:0044087	regulation of cellular component biogenesis
+BP	92 (GO:0044237)	GO:0044237	cellular metabolic process
+BP	93 (GO:0044238)	GO:0044238	primary metabolic process
+BP	94 (GO:0044281)	GO:0044281	small molecule metabolic process
+BP	95 (GO:0044419)	GO:0044419	biological process involved in interspecies interaction between organisms
+BP	96 (GO:0044550)	GO:0009237	siderophore metabolic process
+BP	96 (GO:0044550)	GO:0009404	toxin metabolic process
+BP	96 (GO:0044550)	GO:0044550	secondary metabolite biosynthetic process
+BP	96 (GO:0044550)	GO:0030153	bacteriocin immunity
+BP	96 (GO:0044550)	GO:0019290	siderophore biosynthetic process
+BP	97 (GO:0045226)	GO:0009250	glucan biosynthetic process
+BP	97 (GO:0045226)	GO:0009103	lipopolysaccharide biosynthetic process
+BP	97 (GO:0045226)	GO:0005977	glycogen metabolic process
+BP	97 (GO:0045226)	GO:0045226	extracellular polysaccharide biosynthetic process
+BP	97 (GO:0045226)	GO:0045227	capsule polysaccharide biosynthetic process
+BP	97 (GO:0045226)	GO:0046379	extracellular polysaccharide metabolic process
+BP	97 (GO:0045226)	GO:0005978	glycogen biosynthetic process
+BP	98 (GO:0046148)	GO:0016116	carotenoid metabolic process
+BP	98 (GO:0046148)	GO:0046148	pigment biosynthetic process
+BP	98 (GO:0046148)	GO:0016117	carotenoid biosynthetic process
+BP	98 (GO:0046148)	GO:0016109	tetraterpenoid biosynthetic process
+BP	99 (GO:0046383)	GO:0046368	GDP-L-fucose metabolic process
+BP	99 (GO:0046383)	GO:0046383	dTDP-rhamnose metabolic process
+BP	99 (GO:0046383)	GO:0042350	GDP-L-fucose biosynthetic process
+BP	99 (GO:0046383)	GO:0009226	nucleotide-sugar biosynthetic process
+BP	99 (GO:0046383)	GO:0042351	'de novo' GDP-L-fucose biosynthetic process
+BP	99 (GO:0046383)	GO:0019673	GDP-mannose metabolic process
+BP	99 (GO:0046383)	GO:0019305	dTDP-rhamnose biosynthetic process
+BP	100 (GO:0046436)	GO:0006523	alanine biosynthetic process
+BP	100 (GO:0046436)	GO:0046436	D-alanine metabolic process
+BP	100 (GO:0046436)	GO:0009079	pyruvate family amino acid biosynthetic process
+BP	100 (GO:0046436)	GO:0019478	D-amino acid catabolic process
+BP	100 (GO:0046436)	GO:0006522	alanine metabolic process
+BP	101 (GO:0046451)	GO:0043649	dicarboxylic acid catabolic process
+BP	101 (GO:0046451)	GO:0019392	glucarate metabolic process
+BP	101 (GO:0046451)	GO:0009089	lysine biosynthetic process via diaminopimelate
+BP	101 (GO:0046451)	GO:0009085	lysine biosynthetic process
+BP	101 (GO:0046451)	GO:0019577	aldaric acid metabolic process
+BP	101 (GO:0046451)	GO:0019579	aldaric acid catabolic process
+BP	101 (GO:0046451)	GO:0019394	glucarate catabolic process
+BP	101 (GO:0046451)	GO:0043650	dicarboxylic acid biosynthetic process
+BP	101 (GO:0046451)	GO:0019877	diaminopimelate biosynthetic process
+BP	101 (GO:0046451)	GO:0046451	diaminopimelate metabolic process
+BP	102 (GO:0046483)	GO:0046483	heterocycle metabolic process
+BP	103 (GO:0046500)	GO:0000096	sulfur amino acid metabolic process
+BP	103 (GO:0046500)	GO:0019419	sulfate reduction
+BP	103 (GO:0046500)	GO:0035384	thioester biosynthetic process
+BP	103 (GO:0046500)	GO:0006085	acetyl-CoA biosynthetic process
+BP	103 (GO:0046500)	GO:0006637	acyl-CoA metabolic process
+BP	103 (GO:0046500)	GO:0071616	acyl-CoA biosynthetic process
+BP	103 (GO:0046500)	GO:0006084	acetyl-CoA metabolic process
+BP	103 (GO:0046500)	GO:0046500	S-adenosylmethionine metabolic process
+BP	103 (GO:0046500)	GO:0044272	sulfur compound biosynthetic process
+BP	103 (GO:0046500)	GO:0000103	sulfate assimilation
+BP	103 (GO:0046500)	GO:0035383	thioester metabolic process
+BP	104 (GO:0046685)	GO:0046685	response to arsenic-containing substance
+BP	105 (GO:0046903)	GO:0046903	secretion
+BP	106 (GO:0048518)	GO:0048518	positive regulation of biological process
+BP	107 (GO:0048519)	GO:0048519	negative regulation of biological process
+BP	108 (GO:0048583)	GO:0048583	regulation of response to stimulus
+BP	109 (GO:0048869)	GO:0048856	anatomical structure development
+BP	109 (GO:0048869)	GO:0048646	anatomical structure formation involved in morphogenesis
+BP	109 (GO:0048869)	GO:0030435	sporulation resulting in formation of a cellular spore
+BP	109 (GO:0048869)	GO:0000902	cell morphogenesis
+BP	109 (GO:0048869)	GO:0043934	sporulation
+BP	109 (GO:0048869)	GO:0009847	spore germination
+BP	109 (GO:0048869)	GO:0048869	cellular developmental process
+BP	109 (GO:0048869)	GO:0009653	anatomical structure morphogenesis
+BP	110 (GO:0048870)	GO:0048870	cell motility
+BP	111 (GO:0048878)	GO:0050801	monoatomic ion homeostasis
+BP	111 (GO:0048878)	GO:0055082	intracellular chemical homeostasis
+BP	111 (GO:0048878)	GO:0006879	intracellular iron ion homeostasis
+BP	111 (GO:0048878)	GO:0006878	intracellular copper ion homeostasis
+BP	111 (GO:0048878)	GO:0055070	copper ion homeostasis
+BP	111 (GO:0048878)	GO:0006873	intracellular monoatomic ion homeostasis
+BP	111 (GO:0048878)	GO:0030003	intracellular monoatomic cation homeostasis
+BP	111 (GO:0048878)	GO:0055080	monoatomic cation homeostasis
+BP	111 (GO:0048878)	GO:0098771	inorganic ion homeostasis
+BP	111 (GO:0048878)	GO:0019725	cellular homeostasis
+BP	111 (GO:0048878)	GO:0048878	chemical homeostasis
+BP	111 (GO:0048878)	GO:0006885	regulation of pH
+BP	112 (GO:0050793)	GO:0050793	regulation of developmental process
+BP	113 (GO:0050794)	GO:0019222	regulation of metabolic process
+BP	113 (GO:0050794)	GO:0060255	regulation of macromolecule metabolic process
+BP	113 (GO:0050794)	GO:0010468	regulation of gene expression
+BP	113 (GO:0050794)	GO:0031326	regulation of cellular biosynthetic process
+BP	113 (GO:0050794)	GO:0050789	regulation of biological process
+BP	113 (GO:0050794)	GO:0019219	regulation of nucleobase-containing compound metabolic process
+BP	113 (GO:0050794)	GO:0050794	regulation of cellular process
+BP	113 (GO:0050794)	GO:0051171	regulation of nitrogen compound metabolic process
+BP	113 (GO:0050794)	GO:0006355	regulation of DNA-templated transcription
+BP	113 (GO:0050794)	GO:0009889	regulation of biosynthetic process
+BP	113 (GO:0050794)	GO:0010556	regulation of macromolecule biosynthetic process
+BP	113 (GO:0050794)	GO:0080090	regulation of primary metabolic process
+BP	113 (GO:0050794)	GO:0031323	regulation of cellular metabolic process
+BP	113 (GO:0050794)	GO:0023052	signaling
+BP	113 (GO:0050794)	GO:0051252	regulation of RNA metabolic process
+BP	113 (GO:0050794)	GO:2001141	regulation of RNA biosynthetic process
+BP	114 (GO:0050896)	GO:0050896	response to stimulus
+BP	115 (GO:0051052)	GO:0051052	regulation of DNA metabolic process
+BP	116 (GO:0051128)	GO:0051128	regulation of cellular component organization
+BP	117 (GO:0051172)	GO:0010605	negative regulation of macromolecule metabolic process
+BP	117 (GO:0051172)	GO:0009892	negative regulation of metabolic process
+BP	117 (GO:0051172)	GO:0051253	negative regulation of RNA metabolic process
+BP	117 (GO:0051172)	GO:0051172	negative regulation of nitrogen compound metabolic process
+BP	117 (GO:0051172)	GO:0051053	negative regulation of DNA metabolic process
+BP	117 (GO:0051172)	GO:0048523	negative regulation of cellular process
+BP	117 (GO:0051172)	GO:1902679	negative regulation of RNA biosynthetic process
+BP	117 (GO:0051172)	GO:0031324	negative regulation of cellular metabolic process
+BP	117 (GO:0051172)	GO:0006417	regulation of translation
+BP	117 (GO:0051172)	GO:0034249	negative regulation of amide metabolic process
+BP	117 (GO:0051172)	GO:0006275	regulation of DNA replication
+BP	117 (GO:0051172)	GO:0010558	negative regulation of macromolecule biosynthetic process
+BP	117 (GO:0051172)	GO:0045934	negative regulation of nucleobase-containing compound metabolic process
+BP	117 (GO:0051172)	GO:0017148	negative regulation of translation
+BP	117 (GO:0051172)	GO:0009890	negative regulation of biosynthetic process
+BP	117 (GO:0051172)	GO:0008156	negative regulation of DNA replication
+BP	117 (GO:0051172)	GO:0031327	negative regulation of cellular biosynthetic process
+BP	117 (GO:0051172)	GO:0010629	negative regulation of gene expression
+BP	117 (GO:0051172)	GO:0045892	negative regulation of DNA-templated transcription
+BP	117 (GO:0051172)	GO:0051248	negative regulation of protein metabolic process
+BP	118 (GO:0051173)	GO:0010557	positive regulation of macromolecule biosynthetic process
+BP	118 (GO:0051173)	GO:0048522	positive regulation of cellular process
+BP	118 (GO:0051173)	GO:0045935	positive regulation of nucleobase-containing compound metabolic process
+BP	118 (GO:0051173)	GO:0009891	positive regulation of biosynthetic process
+BP	118 (GO:0051173)	GO:0045893	positive regulation of DNA-templated transcription
+BP	118 (GO:0051173)	GO:1902680	positive regulation of RNA biosynthetic process
+BP	118 (GO:0051173)	GO:0051173	positive regulation of nitrogen compound metabolic process
+BP	118 (GO:0051173)	GO:0031328	positive regulation of cellular biosynthetic process
+BP	118 (GO:0051173)	GO:0051254	positive regulation of RNA metabolic process
+BP	118 (GO:0051173)	GO:0010604	positive regulation of macromolecule metabolic process
+BP	118 (GO:0051173)	GO:0031325	positive regulation of cellular metabolic process
+BP	118 (GO:0051173)	GO:0009893	positive regulation of metabolic process
+BP	119 (GO:0051179)	GO:0051179	localization
+BP	120 (GO:0051189)	GO:0051189	prosthetic group metabolic process
+BP	121 (GO:0051246)	GO:0051246	regulation of protein metabolic process
+BP	122 (GO:0051301)	GO:0051301	cell division
+BP	123 (GO:0051604)	GO:0051604	protein maturation
+BP	124 (GO:0051641)	GO:0051641	cellular localization
+BP	125 (GO:0051726)	GO:0051726	regulation of cell cycle
+BP	126 (GO:0055086)	GO:0006082	organic acid metabolic process
+BP	126 (GO:0055086)	GO:0044283	small molecule biosynthetic process
+BP	126 (GO:0055086)	GO:0055086	nucleobase-containing small molecule metabolic process
+BP	127 (GO:0065007)	GO:0065007	biological regulation
+BP	128 (GO:0065008)	GO:0065008	regulation of biological quality
+BP	129 (GO:0070647)	GO:0006468	protein phosphorylation
+BP	129 (GO:0070647)	GO:0036211	protein modification process
+BP	129 (GO:0070647)	GO:0070647	protein modification by small protein conjugation or removal
+BP	129 (GO:0070647)	GO:0018193	peptidyl-amino acid modification
+BP	130 (GO:0070925)	GO:0009297	pilus assembly
+BP	130 (GO:0070925)	GO:0140694	non-membrane-bounded organelle assembly
+BP	130 (GO:0070925)	GO:0043571	maintenance of CRISPR repeat elements
+BP	130 (GO:0070925)	GO:0000154	rRNA modification
+BP	130 (GO:0070925)	GO:0070925	organelle assembly
+BP	130 (GO:0070925)	GO:0017004	cytochrome complex assembly
+BP	130 (GO:0070925)	GO:0051259	protein complex oligomerization
+BP	130 (GO:0070925)	GO:0051276	chromosome organization
+BP	130 (GO:0070925)	GO:0043570	maintenance of DNA repeat elements
+BP	130 (GO:0070925)	GO:0006364	rRNA processing
+BP	130 (GO:0070925)	GO:0022607	cellular component assembly
+BP	130 (GO:0070925)	GO:0044781	bacterial-type flagellum organization
+BP	130 (GO:0070925)	GO:0044780	bacterial-type flagellum assembly
+BP	130 (GO:0070925)	GO:0030031	cell projection assembly
+BP	130 (GO:0070925)	GO:0071103	DNA conformation change
+BP	130 (GO:0070925)	GO:0042254	ribosome biogenesis
+BP	130 (GO:0070925)	GO:0043711	pilus organization
+BP	130 (GO:0070925)	GO:0065003	protein-containing complex assembly
+BP	130 (GO:0070925)	GO:0006265	DNA topological change
+BP	130 (GO:0070925)	GO:0022613	ribonucleoprotein complex biogenesis
+BP	131 (GO:0071554)	GO:0071554	cell wall organization or biogenesis
+BP	132 (GO:0071555)	GO:0009273	peptidoglycan-based cell wall biogenesis
+BP	132 (GO:0071555)	GO:0042546	cell wall biogenesis
+BP	132 (GO:0071555)	GO:0044085	cellular component biogenesis
+BP	132 (GO:0071555)	GO:0045230	capsule organization
+BP	132 (GO:0071555)	GO:0071555	cell wall organization
+BP	132 (GO:0071555)	GO:0045229	external encapsulating structure organization
+BP	132 (GO:0071555)	GO:0006024	glycosaminoglycan biosynthetic process
+BP	132 (GO:0071555)	GO:0000270	peptidoglycan metabolic process
+BP	132 (GO:0071555)	GO:0016043	cellular component organization
+BP	132 (GO:0071555)	GO:0030203	glycosaminoglycan metabolic process
+BP	132 (GO:0071555)	GO:0043933	protein-containing complex organization
+BP	132 (GO:0071555)	GO:0006023	aminoglycan biosynthetic process
+BP	132 (GO:0071555)	GO:0006996	organelle organization
+BP	132 (GO:0071555)	GO:0009252	peptidoglycan biosynthetic process
+BP	132 (GO:0071555)	GO:0044038	cell wall macromolecule biosynthetic process
+BP	133 (GO:0071586)	GO:0006465	signal peptide processing
+BP	133 (GO:0071586)	GO:0071586	CAAX-box protein processing
+BP	133 (GO:0071586)	GO:0080120	CAAX-box protein maturation
+BP	133 (GO:0071586)	GO:0016485	protein processing
+BP	134 (GO:0071704)	GO:0071704	organic substance metabolic process
+BP	135 (GO:0071705)	GO:0071702	organic substance transport
+BP	135 (GO:0071705)	GO:0006810	transport
+BP	135 (GO:0071705)	GO:0071705	nitrogen compound transport
+BP	135 (GO:0071705)	GO:0051234	establishment of localization
+BP	135 (GO:0071705)	GO:0055085	transmembrane transport
+BP	136 (GO:0071806)	GO:0043213	bacteriocin transport
+BP	136 (GO:0071806)	GO:0008104	protein localization
+BP	136 (GO:0071806)	GO:0006886	intracellular protein transport
+BP	136 (GO:0071806)	GO:0015031	protein transport
+BP	136 (GO:0071806)	GO:0046942	carboxylic acid transport
+BP	136 (GO:0071806)	GO:0071806	protein transmembrane transport
+BP	136 (GO:0071806)	GO:0006842	tricarboxylic acid transport
+BP	136 (GO:0071806)	GO:0043952	protein transport by the Sec complex
+BP	136 (GO:0071806)	GO:0070727	cellular macromolecule localization
+BP	136 (GO:0071806)	GO:0006835	dicarboxylic acid transport
+BP	136 (GO:0071806)	GO:0015711	organic anion transport
+BP	136 (GO:0071806)	GO:0008643	carbohydrate transport
+BP	136 (GO:0071806)	GO:0046907	intracellular transport
+BP	136 (GO:0071806)	GO:0030254	protein secretion by the type III secretion system
+BP	136 (GO:0071806)	GO:0030253	protein secretion by the type I secretion system
+BP	136 (GO:0071806)	GO:0006865	amino acid transport
+BP	136 (GO:0071806)	GO:0015849	organic acid transport
+BP	136 (GO:0071806)	GO:0015833	peptide transport
+BP	136 (GO:0071806)	GO:0051649	establishment of localization in cell
+BP	136 (GO:0071806)	GO:0045184	establishment of protein localization
+BP	136 (GO:0071806)	GO:0030255	protein secretion by the type IV secretion system
+BP	136 (GO:0071806)	GO:0071692	protein localization to extracellular region
+BP	136 (GO:0071806)	GO:0006605	protein targeting
+BP	136 (GO:0071806)	GO:0042886	amide transport
+BP	137 (GO:0071840)	GO:0071840	cellular component organization or biogenesis
+BP	138 (GO:0071897)	GO:0006269	DNA replication, synthesis of RNA primer
+BP	138 (GO:0071897)	GO:0006270	DNA replication initiation
+BP	138 (GO:0071897)	GO:0006304	DNA modification
+BP	138 (GO:0071897)	GO:0006313	DNA transposition
+BP	138 (GO:0071897)	GO:0071897	DNA biosynthetic process
+BP	138 (GO:0071897)	GO:0015074	DNA integration
+BP	138 (GO:0071897)	GO:0006260	DNA replication
+BP	138 (GO:0071897)	GO:0006261	DNA-templated DNA replication
+BP	138 (GO:0071897)	GO:0006310	DNA recombination
+BP	139 (GO:0071941)	GO:0071941	nitrogen cycle metabolic process
+BP	140 (GO:0071973)	GO:0097588	archaeal or bacterial-type flagellum-dependent cell motility
+BP	140 (GO:0071973)	GO:0071973	bacterial-type flagellum-dependent cell motility
+BP	140 (GO:0071973)	GO:0001539	cilium or flagellum-dependent cell motility
+BP	141 (GO:0072338)	GO:0072338	lactam metabolic process
+BP	142 (GO:0072350)	GO:0072350	tricarboxylic acid metabolic process
+BP	143 (GO:0072521)	GO:0072521	purine-containing compound metabolic process
+BP	144 (GO:0072524)	GO:0072524	pyridine-containing compound metabolic process
+BP	145 (GO:0072525)	GO:0019674	NAD metabolic process
+BP	145 (GO:0072525)	GO:0008615	pyridoxine biosynthetic process
+BP	145 (GO:0072525)	GO:0019359	nicotinamide nucleotide biosynthetic process
+BP	145 (GO:0072525)	GO:0006098	pentose-phosphate shunt
+BP	145 (GO:0072525)	GO:0006740	NADPH regeneration
+BP	145 (GO:0072525)	GO:0042819	vitamin B6 biosynthetic process
+BP	145 (GO:0072525)	GO:0009435	NAD biosynthetic process
+BP	145 (GO:0072525)	GO:0019362	pyridine nucleotide metabolic process
+BP	145 (GO:0072525)	GO:0008614	pyridoxine metabolic process
+BP	145 (GO:0072525)	GO:0019363	pyridine nucleotide biosynthetic process
+BP	145 (GO:0072525)	GO:0006739	NADP metabolic process
+BP	145 (GO:0072525)	GO:0046496	nicotinamide nucleotide metabolic process
+BP	145 (GO:0072525)	GO:0072525	pyridine-containing compound biosynthetic process
+BP	145 (GO:0072525)	GO:0042816	vitamin B6 metabolic process
+BP	146 (GO:0072527)	GO:0072527	pyrimidine-containing compound metabolic process
+BP	147 (GO:0072528)	GO:0006220	pyrimidine nucleotide metabolic process
+BP	147 (GO:0072528)	GO:0042723	thiamine-containing compound metabolic process
+BP	147 (GO:0072528)	GO:0006221	pyrimidine nucleotide biosynthetic process
+BP	147 (GO:0072528)	GO:0072528	pyrimidine-containing compound biosynthetic process
+BP	148 (GO:0075713)	GO:0019042	viral latency
+BP	148 (GO:0075713)	GO:0019043	establishment of viral latency
+BP	148 (GO:0075713)	GO:0075713	establishment of integrated proviral latency
+BP	148 (GO:0075713)	GO:0019058	viral life cycle
+BP	149 (GO:0080134)	GO:0032101	regulation of response to external stimulus
+BP	149 (GO:0080134)	GO:1902531	regulation of intracellular signal transduction
+BP	149 (GO:0080134)	GO:0009966	regulation of signal transduction
+BP	149 (GO:0080134)	GO:0080134	regulation of response to stress
+BP	150 (GO:0090304)	GO:0032774	RNA biosynthetic process
+BP	150 (GO:0090304)	GO:0016070	RNA metabolic process
+BP	150 (GO:0090304)	GO:0006139	nucleobase-containing compound metabolic process
+BP	150 (GO:0090304)	GO:0034654	nucleobase-containing compound biosynthetic process
+BP	150 (GO:0090304)	GO:0090304	nucleic acid metabolic process
+BP	150 (GO:0090304)	GO:0006351	DNA-templated transcription
+BP	151 (GO:0090407)	GO:0009212	pyrimidine deoxyribonucleoside triphosphate biosynthetic process
+BP	151 (GO:0090407)	GO:0009156	ribonucleoside monophosphate biosynthetic process
+BP	151 (GO:0090407)	GO:0009141	nucleoside triphosphate metabolic process
+BP	151 (GO:0090407)	GO:0046034	ATP metabolic process
+BP	151 (GO:0090407)	GO:0009127	purine nucleoside monophosphate biosynthetic process
+BP	151 (GO:0090407)	GO:0033865	nucleoside bisphosphate metabolic process
+BP	151 (GO:0090407)	GO:0009211	pyrimidine deoxyribonucleoside triphosphate metabolic process
+BP	151 (GO:0090407)	GO:0046390	ribose phosphate biosynthetic process
+BP	151 (GO:0090407)	GO:0009144	purine nucleoside triphosphate metabolic process
+BP	151 (GO:0090407)	GO:0009206	purine ribonucleoside triphosphate biosynthetic process
+BP	151 (GO:0090407)	GO:0009260	ribonucleotide biosynthetic process
+BP	151 (GO:0090407)	GO:0032324	molybdopterin cofactor biosynthetic process
+BP	151 (GO:0090407)	GO:0046058	cAMP metabolic process
+BP	151 (GO:0090407)	GO:0019720	Mo-molybdopterin cofactor metabolic process
+BP	151 (GO:0090407)	GO:0009161	ribonucleoside monophosphate metabolic process
+BP	151 (GO:0090407)	GO:0009148	pyrimidine nucleoside triphosphate biosynthetic process
+BP	151 (GO:0090407)	GO:0009142	nucleoside triphosphate biosynthetic process
+BP	151 (GO:0090407)	GO:0006231	dTMP biosynthetic process
+BP	151 (GO:0090407)	GO:0006796	phosphate-containing compound metabolic process
+BP	151 (GO:0090407)	GO:0009177	pyrimidine deoxyribonucleoside monophosphate biosynthetic process
+BP	151 (GO:0090407)	GO:0009168	purine ribonucleoside monophosphate biosynthetic process
+BP	151 (GO:0090407)	GO:0006753	nucleoside phosphate metabolic process
+BP	151 (GO:0090407)	GO:0046075	dTTP metabolic process
+BP	151 (GO:0090407)	GO:0009394	2'-deoxyribonucleotide metabolic process
+BP	151 (GO:0090407)	GO:0009157	deoxyribonucleoside monophosphate biosynthetic process
+BP	151 (GO:0090407)	GO:0009129	pyrimidine nucleoside monophosphate metabolic process
+BP	151 (GO:0090407)	GO:0009205	purine ribonucleoside triphosphate metabolic process
+BP	151 (GO:0090407)	GO:0046385	deoxyribose phosphate biosynthetic process
+BP	151 (GO:0090407)	GO:0051156	glucose 6-phosphate metabolic process
+BP	151 (GO:0090407)	GO:0009123	nucleoside monophosphate metabolic process
+BP	151 (GO:0090407)	GO:0009130	pyrimidine nucleoside monophosphate biosynthetic process
+BP	151 (GO:0090407)	GO:0016310	phosphorylation
+BP	151 (GO:0090407)	GO:1901293	nucleoside phosphate biosynthetic process
+BP	151 (GO:0090407)	GO:0019637	organophosphate metabolic process
+BP	151 (GO:0090407)	GO:0006164	purine nucleotide biosynthetic process
+BP	151 (GO:0090407)	GO:0009145	purine nucleoside triphosphate biosynthetic process
+BP	151 (GO:0090407)	GO:0009176	pyrimidine deoxyribonucleoside monophosphate metabolic process
+BP	151 (GO:0090407)	GO:0009162	deoxyribonucleoside monophosphate metabolic process
+BP	151 (GO:0090407)	GO:0090407	organophosphate biosynthetic process
+BP	151 (GO:0090407)	GO:0009147	pyrimidine nucleoside triphosphate metabolic process
+BP	151 (GO:0090407)	GO:0009199	ribonucleoside triphosphate metabolic process
+BP	151 (GO:0090407)	GO:0009201	ribonucleoside triphosphate biosynthetic process
+BP	151 (GO:0090407)	GO:0009167	purine ribonucleoside monophosphate metabolic process
+BP	151 (GO:0090407)	GO:0006235	dTTP biosynthetic process
+BP	151 (GO:0090407)	GO:0019692	deoxyribose phosphate metabolic process
+BP	151 (GO:0090407)	GO:0046168	glycerol-3-phosphate catabolic process
+BP	151 (GO:0090407)	GO:0009259	ribonucleotide metabolic process
+BP	151 (GO:0090407)	GO:0009150	purine ribonucleotide metabolic process
+BP	151 (GO:0090407)	GO:0019693	ribose phosphate metabolic process
+BP	151 (GO:0090407)	GO:0043545	molybdopterin cofactor metabolic process
+BP	151 (GO:0090407)	GO:0052646	alditol phosphate metabolic process
+BP	151 (GO:0090407)	GO:0009117	nucleotide metabolic process
+BP	151 (GO:0090407)	GO:0006072	glycerol-3-phosphate metabolic process
+BP	151 (GO:0090407)	GO:0009124	nucleoside monophosphate biosynthetic process
+BP	151 (GO:0090407)	GO:0009187	cyclic nucleotide metabolic process
+BP	151 (GO:0090407)	GO:0052652	cyclic purine nucleotide metabolic process
+BP	151 (GO:0090407)	GO:0009265	2'-deoxyribonucleotide biosynthetic process
+BP	151 (GO:0090407)	GO:0009221	pyrimidine deoxyribonucleotide biosynthetic process
+BP	151 (GO:0090407)	GO:0009190	cyclic nucleotide biosynthetic process
+BP	151 (GO:0090407)	GO:0009152	purine ribonucleotide biosynthetic process
+BP	151 (GO:0090407)	GO:0009219	pyrimidine deoxyribonucleotide metabolic process
+BP	151 (GO:0090407)	GO:0009126	purine nucleoside monophosphate metabolic process
+BP	151 (GO:0090407)	GO:0009263	deoxyribonucleotide biosynthetic process
+BP	151 (GO:0090407)	GO:0009165	nucleotide biosynthetic process
+BP	151 (GO:0090407)	GO:0009262	deoxyribonucleotide metabolic process
+BP	151 (GO:0090407)	GO:0006777	Mo-molybdopterin cofactor biosynthetic process
+BP	151 (GO:0090407)	GO:0006171	cAMP biosynthetic process
+BP	151 (GO:0090407)	GO:0046434	organophosphate catabolic process
+BP	151 (GO:0090407)	GO:0046073	dTMP metabolic process
+BP	151 (GO:0090407)	GO:0006754	ATP biosynthetic process
+BP	152 (GO:0098655)	GO:0034220	monoatomic ion transmembrane transport
+BP	152 (GO:0098655)	GO:0006826	iron ion transport
+BP	152 (GO:0098655)	GO:0006813	potassium ion transport
+BP	152 (GO:0098655)	GO:0006825	copper ion transport
+BP	152 (GO:0098655)	GO:0098655	monoatomic cation transmembrane transport
+BP	152 (GO:0098655)	GO:0006814	sodium ion transport
+BP	152 (GO:0098655)	GO:0006812	monoatomic cation transport
+BP	152 (GO:0098655)	GO:0030001	metal ion transport
+BP	152 (GO:0098655)	GO:0000041	transition metal ion transport
+BP	153 (GO:0098657)	GO:0098657	import into cell
+BP	154 (GO:0098660)	GO:0098660	inorganic ion transmembrane transport
+BP	155 (GO:0098662)	GO:0098662	inorganic cation transmembrane transport
+BP	155 (GO:0098662)	GO:1902600	proton transmembrane transport
+BP	155 (GO:0098662)	GO:0071805	potassium ion transmembrane transport
+BP	156 (GO:0098739)	GO:0098739	import across plasma membrane
+BP	157 (GO:0140115)	GO:0032940	secretion by cell
+BP	157 (GO:0140115)	GO:0009306	protein secretion
+BP	157 (GO:0140115)	GO:0035592	establishment of protein localization to extracellular region
+BP	157 (GO:0140115)	GO:0140115	export across plasma membrane
+BP	157 (GO:0140115)	GO:0044097	secretion by the type IV secretion system
+BP	158 (GO:0140352)	GO:0140352	export from cell
+BP	159 (GO:1901135)	GO:1901135	carbohydrate derivative metabolic process
+BP	160 (GO:1901360)	GO:1901360	organic cyclic compound metabolic process
+BP	161 (GO:1901564)	GO:1901564	organonitrogen compound metabolic process
+BP	162 (GO:1901565)	GO:0034030	ribonucleoside bisphosphate biosynthetic process
+BP	162 (GO:1901565)	GO:0019319	hexose biosynthetic process
+BP	162 (GO:1901565)	GO:1901361	organic cyclic compound catabolic process
+BP	162 (GO:1901565)	GO:0009074	aromatic amino acid family catabolic process
+BP	162 (GO:1901565)	GO:0046113	nucleobase catabolic process
+BP	162 (GO:1901565)	GO:0019512	lactose catabolic process via tagatose-6-phosphate
+BP	162 (GO:1901565)	GO:0009253	peptidoglycan catabolic process
+BP	162 (GO:1901565)	GO:0006094	gluconeogenesis
+BP	162 (GO:1901565)	GO:0006527	arginine catabolic process
+BP	162 (GO:1901565)	GO:0009057	macromolecule catabolic process
+BP	162 (GO:1901565)	GO:0019439	aromatic compound catabolic process
+BP	162 (GO:1901565)	GO:0006006	glucose metabolic process
+BP	162 (GO:1901565)	GO:0072523	purine-containing compound catabolic process
+BP	162 (GO:1901565)	GO:0000272	polysaccharide catabolic process
+BP	162 (GO:1901565)	GO:0019318	hexose metabolic process
+BP	162 (GO:1901565)	GO:0042435	indole-containing compound biosynthetic process
+BP	162 (GO:1901565)	GO:1901606	alpha-amino acid catabolic process
+BP	162 (GO:1901565)	GO:0019301	rhamnose catabolic process
+BP	162 (GO:1901565)	GO:0034033	purine nucleoside bisphosphate biosynthetic process
+BP	162 (GO:1901565)	GO:1901565	organonitrogen compound catabolic process
+BP	162 (GO:1901565)	GO:0000162	tryptophan biosynthetic process
+BP	162 (GO:1901565)	GO:0019941	modification-dependent protein catabolic process
+BP	162 (GO:1901565)	GO:0034655	nucleobase-containing compound catabolic process
+BP	162 (GO:1901565)	GO:0005988	lactose metabolic process
+BP	162 (GO:1901565)	GO:0019323	pentose catabolic process
+BP	162 (GO:1901565)	GO:0019627	urea metabolic process
+BP	162 (GO:1901565)	GO:0006144	purine nucleobase metabolic process
+BP	162 (GO:1901565)	GO:0044242	cellular lipid catabolic process
+BP	162 (GO:1901565)	GO:0046364	monosaccharide biosynthetic process
+BP	162 (GO:1901565)	GO:0046395	carboxylic acid catabolic process
+BP	162 (GO:1901565)	GO:0046365	monosaccharide catabolic process
+BP	162 (GO:1901565)	GO:0051603	proteolysis involved in protein catabolic process
+BP	162 (GO:1901565)	GO:0006548	histidine catabolic process
+BP	162 (GO:1901565)	GO:0005991	trehalose metabolic process
+BP	162 (GO:1901565)	GO:0009312	oligosaccharide biosynthetic process
+BP	162 (GO:1901565)	GO:0019556	histidine catabolic process to glutamate and formamide
+BP	162 (GO:1901565)	GO:0033866	nucleoside bisphosphate biosynthetic process
+BP	162 (GO:1901565)	GO:0006027	glycosaminoglycan catabolic process
+BP	162 (GO:1901565)	GO:0046352	disaccharide catabolic process
+BP	162 (GO:1901565)	GO:0043605	amide catabolic process
+BP	162 (GO:1901565)	GO:0042126	nitrate metabolic process
+BP	162 (GO:1901565)	GO:0044042	glucan metabolic process
+BP	162 (GO:1901565)	GO:0042436	indole-containing compound catabolic process
+BP	162 (GO:1901565)	GO:0072329	monocarboxylic acid catabolic process
+BP	162 (GO:1901565)	GO:0019547	arginine catabolic process to ornithine
+BP	162 (GO:1901565)	GO:0072522	purine-containing compound biosynthetic process
+BP	162 (GO:1901565)	GO:0006206	pyrimidine nucleobase metabolic process
+BP	162 (GO:1901565)	GO:0006146	adenine catabolic process
+BP	162 (GO:1901565)	GO:0046351	disaccharide biosynthetic process
+BP	162 (GO:1901565)	GO:0006526	arginine biosynthetic process
+BP	162 (GO:1901565)	GO:0016052	carbohydrate catabolic process
+BP	162 (GO:1901565)	GO:0046348	amino sugar catabolic process
+BP	162 (GO:1901565)	GO:0046219	indolalkylamine biosynthetic process
+BP	162 (GO:1901565)	GO:0009063	amino acid catabolic process
+BP	162 (GO:1901565)	GO:0046700	heterocycle catabolic process
+BP	162 (GO:1901565)	GO:0009399	nitrogen fixation
+BP	162 (GO:1901565)	GO:0044270	cellular nitrogen compound catabolic process
+BP	162 (GO:1901565)	GO:0005992	trehalose biosynthetic process
+BP	162 (GO:1901565)	GO:0009450	gamma-aminobutyric acid catabolic process
+BP	162 (GO:1901565)	GO:0019333	denitrification pathway
+BP	162 (GO:1901565)	GO:0030163	protein catabolic process
+BP	162 (GO:1901565)	GO:0006096	glycolytic process
+BP	162 (GO:1901565)	GO:0010393	galacturonan metabolic process
+BP	162 (GO:1901565)	GO:0006163	purine nucleotide metabolic process
+BP	162 (GO:1901565)	GO:0000271	polysaccharide biosynthetic process
+BP	162 (GO:1901565)	GO:0019388	galactose catabolic process
+BP	162 (GO:1901565)	GO:1901575	organic substance catabolic process
+BP	162 (GO:1901565)	GO:0043632	modification-dependent macromolecule catabolic process
+BP	162 (GO:1901565)	GO:0019299	rhamnose metabolic process
+BP	162 (GO:1901565)	GO:0000256	allantoin catabolic process
+BP	162 (GO:1901565)	GO:0044248	cellular catabolic process
+BP	162 (GO:1901565)	GO:0009073	aromatic amino acid family biosynthetic process
+BP	162 (GO:1901565)	GO:0009065	glutamine family amino acid catabolic process
+BP	162 (GO:1901565)	GO:0046083	adenine metabolic process
+BP	162 (GO:1901565)	GO:0042128	nitrate assimilation
+BP	162 (GO:1901565)	GO:0006568	tryptophan metabolic process
+BP	162 (GO:1901565)	GO:0005990	lactose catabolic process
+BP	162 (GO:1901565)	GO:0006145	purine nucleobase catabolic process
+BP	162 (GO:1901565)	GO:0006586	indolalkylamine metabolic process
+BP	162 (GO:1901565)	GO:0019557	histidine catabolic process to glutamate and formate
+BP	162 (GO:1901565)	GO:0045488	pectin metabolic process
+BP	162 (GO:1901565)	GO:0005984	disaccharide metabolic process
+BP	162 (GO:1901565)	GO:0044282	small molecule catabolic process
+BP	162 (GO:1901565)	GO:0006401	RNA catabolic process
+BP	162 (GO:1901565)	GO:0009313	oligosaccharide catabolic process
+BP	162 (GO:1901565)	GO:0006026	aminoglycan catabolic process
+BP	162 (GO:1901565)	GO:0034032	purine nucleoside bisphosphate metabolic process
+BP	162 (GO:1901565)	GO:0042450	arginine biosynthetic process via ornithine
+BP	162 (GO:1901565)	GO:0042743	hydrogen peroxide metabolic process
+BP	162 (GO:1901565)	GO:0045490	pectin catabolic process
+BP	162 (GO:1901565)	GO:0042744	hydrogen peroxide catabolic process
+BP	162 (GO:1901565)	GO:0019320	hexose catabolic process
+BP	162 (GO:1901565)	GO:0043419	urea catabolic process
+BP	162 (GO:1901565)	GO:0033875	ribonucleoside bisphosphate metabolic process
+BP	162 (GO:1901565)	GO:0042732	D-xylose metabolic process
+BP	162 (GO:1901565)	GO:0019321	pentose metabolic process
+BP	162 (GO:1901565)	GO:1901136	carbohydrate derivative catabolic process
+BP	162 (GO:1901565)	GO:0000105	histidine biosynthetic process
+BP	162 (GO:1901565)	GO:0046112	nucleobase biosynthetic process
+BP	162 (GO:1901565)	GO:0006012	galactose metabolic process
+BP	162 (GO:1901565)	GO:0016054	organic acid catabolic process
+BP	163 (GO:1901576)	GO:0044249	cellular biosynthetic process
+BP	163 (GO:1901576)	GO:0019438	aromatic compound biosynthetic process
+BP	163 (GO:1901576)	GO:1901362	organic cyclic compound biosynthetic process
+BP	163 (GO:1901576)	GO:1901576	organic substance biosynthetic process
+BP	163 (GO:1901576)	GO:0044271	cellular nitrogen compound biosynthetic process
+BP	163 (GO:1901576)	GO:0009059	macromolecule biosynthetic process
+BP	163 (GO:1901576)	GO:1901566	organonitrogen compound biosynthetic process
+BP	163 (GO:1901576)	GO:0018130	heterocycle biosynthetic process
+BP	164 (GO:1901605)	GO:0006551	leucine metabolic process
+BP	164 (GO:1901605)	GO:0006553	lysine metabolic process
+BP	164 (GO:1901605)	GO:0009072	aromatic amino acid metabolic process
+BP	164 (GO:1901605)	GO:0046416	D-amino acid metabolic process
+BP	164 (GO:1901605)	GO:0000097	sulfur amino acid biosynthetic process
+BP	164 (GO:1901605)	GO:0016053	organic acid biosynthetic process
+BP	164 (GO:1901605)	GO:0055129	L-proline biosynthetic process
+BP	164 (GO:1901605)	GO:0019509	L-methionine salvage from methylthioadenosine
+BP	164 (GO:1901605)	GO:0009086	methionine biosynthetic process
+BP	164 (GO:1901605)	GO:0015939	pantothenate metabolic process
+BP	164 (GO:1901605)	GO:0006591	ornithine metabolic process
+BP	164 (GO:1901605)	GO:0006542	glutamine biosynthetic process
+BP	164 (GO:1901605)	GO:0043436	oxoacid metabolic process
+BP	164 (GO:1901605)	GO:0009396	folic acid-containing compound biosynthetic process
+BP	164 (GO:1901605)	GO:0015940	pantothenate biosynthetic process
+BP	164 (GO:1901605)	GO:0006541	glutamine metabolic process
+BP	164 (GO:1901605)	GO:0009064	glutamine family amino acid metabolic process
+BP	164 (GO:1901605)	GO:0006547	histidine metabolic process
+BP	164 (GO:1901605)	GO:0019264	glycine biosynthetic process from serine
+BP	164 (GO:1901605)	GO:0009070	serine family amino acid biosynthetic process
+BP	164 (GO:1901605)	GO:0071265	L-methionine biosynthetic process
+BP	164 (GO:1901605)	GO:0006525	arginine metabolic process
+BP	164 (GO:1901605)	GO:0006561	proline biosynthetic process
+BP	164 (GO:1901605)	GO:0009084	glutamine family amino acid biosynthetic process
+BP	164 (GO:1901605)	GO:0046394	carboxylic acid biosynthetic process
+BP	164 (GO:1901605)	GO:0046654	tetrahydrofolate biosynthetic process
+BP	164 (GO:1901605)	GO:0009069	serine family amino acid metabolic process
+BP	164 (GO:1901605)	GO:0009078	pyruvate family amino acid metabolic process
+BP	164 (GO:1901605)	GO:0042398	cellular modified amino acid biosynthetic process
+BP	164 (GO:1901605)	GO:0006560	proline metabolic process
+BP	164 (GO:1901605)	GO:0046655	folic acid metabolic process
+BP	164 (GO:1901605)	GO:0043102	amino acid salvage
+BP	164 (GO:1901605)	GO:0046656	folic acid biosynthetic process
+BP	164 (GO:1901605)	GO:0006563	L-serine metabolic process
+BP	164 (GO:1901605)	GO:0009110	vitamin biosynthetic process
+BP	164 (GO:1901605)	GO:0071267	L-methionine salvage
+BP	164 (GO:1901605)	GO:0043038	amino acid activation
+BP	164 (GO:1901605)	GO:0072330	monocarboxylic acid biosynthetic process
+BP	164 (GO:1901605)	GO:0006536	glutamate metabolic process
+BP	164 (GO:1901605)	GO:0035999	tetrahydrofolate interconversion
+BP	164 (GO:1901605)	GO:1901607	alpha-amino acid biosynthetic process
+BP	164 (GO:1901605)	GO:0043648	dicarboxylic acid metabolic process
+BP	164 (GO:1901605)	GO:0006534	cysteine metabolic process
+BP	164 (GO:1901605)	GO:0006767	water-soluble vitamin metabolic process
+BP	164 (GO:1901605)	GO:0019344	cysteine biosynthetic process
+BP	164 (GO:1901605)	GO:0006520	amino acid metabolic process
+BP	164 (GO:1901605)	GO:0006555	methionine metabolic process
+BP	164 (GO:1901605)	GO:0009082	branched-chain amino acid biosynthetic process
+BP	164 (GO:1901605)	GO:0046653	tetrahydrofolate metabolic process
+BP	164 (GO:1901605)	GO:0009081	branched-chain amino acid metabolic process
+BP	164 (GO:1901605)	GO:0042559	pteridine-containing compound biosynthetic process
+BP	164 (GO:1901605)	GO:0006544	glycine metabolic process
+BP	164 (GO:1901605)	GO:0006633	fatty acid biosynthetic process
+BP	164 (GO:1901605)	GO:0006760	folic acid-containing compound metabolic process
+BP	164 (GO:1901605)	GO:0009098	leucine biosynthetic process
+BP	164 (GO:1901605)	GO:0008652	amino acid biosynthetic process
+BP	164 (GO:1901605)	GO:0006535	cysteine biosynthetic process from serine
+BP	164 (GO:1901605)	GO:0019752	carboxylic acid metabolic process
+BP	164 (GO:1901605)	GO:0042364	water-soluble vitamin biosynthetic process
+BP	164 (GO:1901605)	GO:0006545	glycine biosynthetic process
+BP	164 (GO:1901605)	GO:0032787	monocarboxylic acid metabolic process
+BP	164 (GO:1901605)	GO:1901605	alpha-amino acid metabolic process
+BP	164 (GO:1901605)	GO:0009067	aspartate family amino acid biosynthetic process
+BP	164 (GO:1901605)	GO:0009066	aspartate family amino acid metabolic process
+BP	165 (GO:1901615)	GO:1901615	organic hydroxy compound metabolic process
+BP	166 (GO:1901617)	GO:0042724	thiamine-containing compound biosynthetic process
+BP	166 (GO:1901617)	GO:0009228	thiamine biosynthetic process
+BP	166 (GO:1901617)	GO:0019405	alditol catabolic process
+BP	166 (GO:1901617)	GO:0019614	catechol-containing compound catabolic process
+BP	166 (GO:1901617)	GO:0034309	primary alcohol biosynthetic process
+BP	166 (GO:1901617)	GO:1901617	organic hydroxy compound biosynthetic process
+BP	166 (GO:1901617)	GO:0046165	alcohol biosynthetic process
+BP	166 (GO:1901617)	GO:1901616	organic hydroxy compound catabolic process
+BP	166 (GO:1901617)	GO:0009712	catechol-containing compound metabolic process
+BP	166 (GO:1901617)	GO:0019310	inositol catabolic process
+BP	166 (GO:1901617)	GO:0019751	polyol metabolic process
+BP	166 (GO:1901617)	GO:0006020	inositol metabolic process
+BP	166 (GO:1901617)	GO:0018958	phenol-containing compound metabolic process
+BP	166 (GO:1901617)	GO:0046164	alcohol catabolic process
+BP	166 (GO:1901617)	GO:0006772	thiamine metabolic process
+BP	166 (GO:1901617)	GO:0046174	polyol catabolic process
+BP	166 (GO:1901617)	GO:0019336	phenol-containing compound catabolic process
+BP	166 (GO:1901617)	GO:0019563	glycerol catabolic process
+BP	166 (GO:1901617)	GO:0006066	alcohol metabolic process
+BP	166 (GO:1901617)	GO:0034308	primary alcohol metabolic process
+BP	166 (GO:1901617)	GO:0019400	alditol metabolic process
+BP	166 (GO:1901617)	GO:0006071	glycerol metabolic process
+BP	167 (GO:1901657)	GO:1901657	glycosyl compound metabolic process
+BP	168 (GO:1901659)	GO:0009163	nucleoside biosynthetic process
+BP	168 (GO:1901659)	GO:0046116	queuosine metabolic process
+BP	168 (GO:1901659)	GO:0009119	ribonucleoside metabolic process
+BP	168 (GO:1901659)	GO:0042455	ribonucleoside biosynthetic process
+BP	168 (GO:1901659)	GO:1901659	glycosyl compound biosynthetic process
+BP	168 (GO:1901659)	GO:0042278	purine nucleoside metabolic process
+BP	168 (GO:1901659)	GO:0009116	nucleoside metabolic process
+BP	168 (GO:1901659)	GO:0008616	queuosine biosynthetic process
+BP	169 (GO:1901663)	GO:0042181	ketone biosynthetic process
+BP	169 (GO:1901663)	GO:0042182	ketone catabolic process
+BP	169 (GO:1901663)	GO:0072351	tricarboxylic acid biosynthetic process
+BP	169 (GO:1901663)	GO:1901663	quinone biosynthetic process
+BP	169 (GO:1901663)	GO:0006101	citrate metabolic process
+BP	169 (GO:1901663)	GO:1901661	quinone metabolic process
+BP	169 (GO:1901663)	GO:0018189	pyrroloquinoline quinone biosynthetic process
+BP	169 (GO:1901663)	GO:0070189	kynurenine metabolic process
+BP	170 (GO:1901700)	GO:0062197	cellular response to chemical stress
+BP	170 (GO:1901700)	GO:1990748	cellular detoxification
+BP	170 (GO:1901700)	GO:1901700	response to oxygen-containing compound
+BP	170 (GO:1901700)	GO:0098754	detoxification
+BP	170 (GO:1901700)	GO:0009410	response to xenobiotic stimulus
+BP	170 (GO:1901700)	GO:0010033	response to organic substance
+BP	170 (GO:1901700)	GO:0010035	response to inorganic substance
+BP	170 (GO:1901700)	GO:0006805	xenobiotic metabolic process
+BP	170 (GO:1901700)	GO:0097237	cellular response to toxic substance
+BP	170 (GO:1901700)	GO:0009636	response to toxic substance
+BP	170 (GO:1901700)	GO:0046677	response to antibiotic
+BP	170 (GO:1901700)	GO:0070887	cellular response to chemical stimulus
+BP	170 (GO:1901700)	GO:0042178	xenobiotic catabolic process
+BP	170 (GO:1901700)	GO:1901701	cellular response to oxygen-containing compound
+BP	170 (GO:1901700)	GO:0071466	cellular response to xenobiotic stimulus
+BP	170 (GO:1901700)	GO:0019380	3-phenylpropionate catabolic process
+BP	171 (GO:1902115)	GO:0060491	regulation of cell projection assembly
+BP	171 (GO:1902115)	GO:0043244	regulation of protein-containing complex disassembly
+BP	171 (GO:1902115)	GO:1902115	regulation of organelle assembly
+BP	171 (GO:1902115)	GO:1902208	regulation of bacterial-type flagellum assembly
+BP	171 (GO:1902115)	GO:0033043	regulation of organelle organization
+BP	171 (GO:1902115)	GO:0051129	negative regulation of cellular component organization
+BP	171 (GO:1902115)	GO:0031344	regulation of cell projection organization
+BP	172 (GO:1903509)	GO:1901137	carbohydrate derivative biosynthetic process
+BP	172 (GO:1903509)	GO:0006090	pyruvate metabolic process
+BP	172 (GO:1903509)	GO:0006631	fatty acid metabolic process
+BP	172 (GO:1903509)	GO:0006022	aminoglycan metabolic process
+BP	172 (GO:1903509)	GO:0044255	cellular lipid metabolic process
+BP	172 (GO:1903509)	GO:0006644	phospholipid metabolic process
+BP	172 (GO:1903509)	GO:0008654	phospholipid biosynthetic process
+BP	172 (GO:1903509)	GO:0016042	lipid catabolic process
+BP	172 (GO:1903509)	GO:0045017	glycerolipid biosynthetic process
+BP	172 (GO:1903509)	GO:0046486	glycerolipid metabolic process
+BP	172 (GO:1903509)	GO:0006720	isoprenoid metabolic process
+BP	172 (GO:1903509)	GO:0008610	lipid biosynthetic process
+BP	172 (GO:1903509)	GO:1903509	liposaccharide metabolic process
+BP	172 (GO:1903509)	GO:0006650	glycerophospholipid metabolic process
+BP	172 (GO:1903509)	GO:0046474	glycerophospholipid biosynthetic process
+BP	173 (GO:2001057)	GO:2001057	reactive nitrogen species metabolic process
+CC	0 (GO:0005576)	GO:0005576	extracellular region
+CC	1 (GO:0005618)	GO:0005618	cell wall
+CC	1 (GO:0005618)	GO:0009274	peptidoglycan-based cell wall
+CC	2 (GO:0005622)	GO:0005622	intracellular anatomical structure
+CC	3 (GO:0005737)	GO:0005737	cytoplasm
+CC	4 (GO:0005829)	GO:0005829	cytosol
+CC	5 (GO:0005840)	GO:0043232	intracellular non-membrane-bounded organelle
+CC	5 (GO:0005840)	GO:0005694	chromosome
+CC	5 (GO:0005840)	GO:0005840	ribosome
+CC	6 (GO:0005886)	GO:0005886	plasma membrane
+CC	7 (GO:0009289)	GO:0009426	bacterial-type flagellum basal body, distal rod
+CC	7 (GO:0009289)	GO:0009425	bacterial-type flagellum basal body
+CC	7 (GO:0009289)	GO:0009288	bacterial-type flagellum
+CC	7 (GO:0009289)	GO:0009289	pilus
+CC	7 (GO:0009289)	GO:0030694	bacterial-type flagellum basal body, rod
+CC	8 (GO:0009316)	GO:0009316	3-isopropylmalate dehydratase complex
+CC	9 (GO:0009986)	GO:0009986	cell surface
+CC	10 (GO:0016020)	GO:0016020	membrane
+CC	11 (GO:0019867)	GO:0019867	outer membrane
+CC	12 (GO:0030257)	GO:0030257	type III protein secretion system complex
+CC	13 (GO:0030312)	GO:0030312	external encapsulating structure
+CC	14 (GO:0030313)	GO:0030313	cell envelope
+CC	14 (GO:0030313)	GO:0030288	outer membrane-bounded periplasmic space
+CC	14 (GO:0030313)	GO:0009279	cell outer membrane
+CC	15 (GO:0031975)	GO:0031975	envelope
+CC	16 (GO:0032991)	GO:0032991	protein-containing complex
+CC	17 (GO:0042597)	GO:0042597	periplasmic space
+CC	18 (GO:0042995)	GO:0042995	cell projection
+CC	19 (GO:0043226)	GO:0043226	organelle
+CC	20 (GO:0043229)	GO:0043229	intracellular organelle
+CC	20 (GO:0043229)	GO:0043228	non-membrane-bounded organelle
+CC	21 (GO:0043684)	GO:0043684	type IV secretion system complex
+CC	22 (GO:0070469)	GO:0070469	respirasome
+CC	23 (GO:0071944)	GO:0071944	cell periphery
+CC	24 (GO:0098796)	GO:0098796	membrane protein complex
+CC	25 (GO:0110165)	GO:0110165	cellular anatomical entity
+CC	26 (GO:0140535)	GO:0140535	intracellular protein-containing complex
+CC	27 (GO:1902495)	GO:0016469	proton-transporting two-sector ATPase complex
+CC	27 (GO:1902495)	GO:0045261	proton-transporting ATP synthase complex, catalytic core F(1)
+CC	27 (GO:1902495)	GO:0016612	molybdenum-iron nitrogenase complex
+CC	27 (GO:1902495)	GO:1902495	transmembrane transporter complex
+CC	27 (GO:1902495)	GO:0043190	ATP-binding cassette (ABC) transporter complex
+CC	27 (GO:1902495)	GO:0030964	NADH dehydrogenase complex
+CC	27 (GO:1902495)	GO:0046930	pore complex
+CC	27 (GO:1902495)	GO:0033177	proton-transporting two-sector ATPase complex, proton-transporting domain
+CC	27 (GO:1902495)	GO:0016610	nitrogenase complex
+CC	27 (GO:1902495)	GO:0098803	respiratory chain complex
+CC	27 (GO:1902495)	GO:0070470	plasma membrane respirasome
+CC	27 (GO:1902495)	GO:0045259	proton-transporting ATP synthase complex
+CC	27 (GO:1902495)	GO:0045263	proton-transporting ATP synthase complex, coupling factor F(o)
+CC	27 (GO:1902495)	GO:0098797	plasma membrane protein complex
+CC	27 (GO:1902495)	GO:0098533	ATPase dependent transmembrane transport complex
+CC	27 (GO:1902495)	GO:0033178	proton-transporting two-sector ATPase complex, catalytic domain
+CC	28 (GO:1990234)	GO:0030880	RNA polymerase complex
+CC	28 (GO:1990234)	GO:1904949	ATPase complex
+CC	28 (GO:1990234)	GO:1990234	transferase complex
+CC	28 (GO:1990234)	GO:0061695	transferase complex, transferring phosphorus-containing groups
+CC	28 (GO:1990234)	GO:1990204	oxidoreductase complex
+CC	28 (GO:1990234)	GO:0000428	DNA-directed RNA polymerase complex
+CC	29 (GO:1990351)	GO:1990351	transporter complex
+CC	30 (GO:1990904)	GO:1990904	ribonucleoprotein complex
+CC	30 (GO:1990904)	GO:1902494	catalytic complex
