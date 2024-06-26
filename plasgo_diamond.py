@@ -1,6 +1,5 @@
 from collections import defaultdict
 import argparse, os, sys, subprocess
-import numpy as np
 import time
 import pickle as pkl
 start = time.time()
