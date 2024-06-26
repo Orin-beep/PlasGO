@@ -80,28 +80,22 @@ rm models.tar.gz
 ```
 
 
-## Alternative way: download default database and models manually
-If the above bash scripts do not work, you can manually download the default database and models using the following Google Drive links:
-* [database.tar.gz](https://drive.google.com/file/d/1ZSTz3kotwF8Zugz_aBGDtmly8BVo9G4T/view)
-* [models.tar.gz](https://drive.google.com/file/d/1bnA1osvYDgYBi-DRFkP-HrvcnvBvbipF/view)
+## Download the foundation protein language model (ProtTrans-ProtT5)
+The ProtTrans-ProtT5 model is required for the preprocessing step of PlasGO. You can manually download it from [Zenodo](https://zenodo.org/record/4644188/files/prot_t5_xl_uniref50.zip) (4.9 GB) or use the wget command:
 
-After downloading the `database.tar.gz` and `models.tar.gz` to HOTSPOT's main directory, you have to unzip them:
 ```
-tar -zxvf database.tar.gz
-rm database.tar.gz
-
-tar -zxvf models.tar.gz
-rm models.tar.gz
+wget https://zenodo.org/record/4644188/files/prot_t5_xl_uniref50.zip
+unzip prot_t5_xl_uniref50.zip
 ```
 
 
-# Usage
-Before running HOTSPOT, you should run `preprocessing.py` to encode the input plasmid sequences into sentences. After that, you can use `hotspot.py` for host prediction.
+## Usage
+After all the above preparation steps, you can then predict GO terms for your query plasmid proteins with the two scripts: `preprocessing.py` and `plasgo_predict.py`:
 
-## Simple example
+### Simple example
 ```
-python preprocessing.py --fasta example_plasmids/NZ_CP083659.fasta --database database --model_path models
-python hotspot.py
+python preprocessing.py --fasta example_data/proteins.faa --plasmids example_data/3plasmids.txt --prott5 prot_t5_xl_uniref50
+python plasgo_predict.py --model_path models
 ```
 
 
