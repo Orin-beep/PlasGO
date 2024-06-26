@@ -119,6 +119,8 @@ The annotation results will be saved in a TSV file (default: `results/results.ts
 
 The second column shows the representative GO terms of the predicted clusters, as determined by the REVIGO tool. The fourth column lists the member GO terms within each cluster. Importantly, if a query protein is predicted to be associated with a particular cluster, it means the protein is annotated to at least one of the GO terms within that cluster.
 
+Detailed information on the labels used in PlasGO's default models is provided in the TSV file `GO_term_label_details.tsv`.
+
 
 # Full command-line options
 plasgo_diamond.py:
