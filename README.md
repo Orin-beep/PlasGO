@@ -127,7 +127,7 @@ Detailed information on the labels used in PlasGO's default models is provided i
 # Datasets
 The curated RefSeq dataset to train the PlasGO models can be downloaded from [Zenodo](https://zenodo.org/records/12542525/files/dataset.tar.gz?download=1) or [Google Drive](https://drive.google.com/file/d/1auVKQoES4vs4-jniGq1YbzBPyHTVpTtV/view?usp=drive_link).
 
-The detailed information of the pre-annotated database (678,196 plasmid proteins) can be downdloaded from [Zenodo](https://zenodo.org/records/12542525/files/detailed_database.tar.gz?download=1) or [Google Drive](https://drive.google.com/file/d/1zuaOKj60xY76kJS31XvyJzxg8LucfBV8/view?usp=sharing).
+The detailed information of the pre-annotated database (678,197 plasmid proteins) can be downdloaded from [Zenodo](https://zenodo.org/records/12542525/files/detailed_database.tar.gz?download=1) or [Google Drive](https://drive.google.com/file/d/1zuaOKj60xY76kJS31XvyJzxg8LucfBV8/view?usp=sharing).
 
 
 # Full command-line options
