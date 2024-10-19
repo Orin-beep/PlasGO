@@ -156,17 +156,19 @@ features = []
 for idx in range(batch_num):
     sequences = all_sequences[batch_size*idx:batch_size*(idx+1)]
     sequences = [" ".join(list(re.sub(r"[UZOB]", "X", sequence))) for sequence in sequences]
+    if(sequences==[]):
+        continue
     ids = tokenizer.batch_encode_plus(sequences, add_special_tokens=True, padding=True)
     input_ids = torch.tensor(ids['input_ids']).to(device)
     attention_mask = torch.tensor(ids['attention_mask']).to(device)
     with torch.no_grad():
         embedding = model(input_ids=input_ids,attention_mask=attention_mask)
-    embedding = embedding.last_hidden_state.cpu()
+    embedding = embedding.last_hidden_state
     for seq_num in range(len(sequences)):   # Global Average Pooling (GAP)
         seq_len = (attention_mask[seq_num] == 1).sum()
         seq_emd = embedding[seq_num][:seq_len - 1]
         emd_per_protein = seq_emd.mean(dim=0)
-        features.append(emd_per_protein.numpy())
+        features.append(emd_per_protein.cpu().numpy())
 
 features = np.vstack(features)
 print(f'Protein embedding finished! The shape of the embedded matrix is {features.shape}.')
