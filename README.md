@@ -135,12 +135,18 @@ You can easily train PlasGO models with the same [training data (Google Drive)](
 python train_plasgo.py --model_path custom_models --data training_data
 ```
 
+If you want to train a new PlasGO model with your own GO-labeled plasmid-encoded protein dataset, you first need to prepare your data with the same format of [raw_data (Google Drive)](https://drive.google.com/file/d/1Hre8yno_cvt1OrbE--C4t9TM6u3LIqp8/view?usp=sharing). Then, you need to prepare the ```training_data``` folder with the following two steps (preparing the dataset and generating protein embeddings):
+
+```
+python prepare_training_data.py --input_folder raw_data --out OUT training_data
+python prot_t5_embed.py --faa raw_data/proteins.faa --out training_data/protein_embeddings --prott5 prot_t5_xl_uniref50/
+```
 
 
 # Datasets
 The curated RefSeq dataset to train the PlasGO models can be downloaded from [Zenodo](https://zenodo.org/records/12542525/files/dataset.tar.gz?download=1) or [Google Drive](https://drive.google.com/file/d/1auVKQoES4vs4-jniGq1YbzBPyHTVpTtV/view?usp=drive_link).
 
-The detailed information of the pre-annotated database (678,197 plasmid proteins) can be downdloaded from [Zenodo](https://zenodo.org/records/12542525/files/detailed_database.tar.gz?download=1) or [Google Drive](https://drive.google.com/file/d/1zuaOKj60xY76kJS31XvyJzxg8LucfBV8/view?usp=sharing).
+The detailed information of the pre-annotated database (678,197 plasmid proteins) can be downloaded from [Zenodo](https://zenodo.org/records/12542525/files/detailed_database.tar.gz?download=1) or [Google Drive](https://drive.google.com/file/d/1zuaOKj60xY76kJS31XvyJzxg8LucfBV8/view?usp=sharing).
 
 
 # Full command-line options
