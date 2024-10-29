@@ -183,3 +183,11 @@ Usage of train_plasgo.py:
 ```
 
 
+prepare_training_data.py
+```
+Usage of prepare_training_data.py:
+        [--input_folder INPUT_FOLDER]   folder storing raw data for processing the dataset, default: raw_data
+        [--out OUT] folder to store the processed dataset for training, default: training_data
+```
+
+
