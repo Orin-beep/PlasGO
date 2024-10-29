@@ -191,3 +191,12 @@ Usage of prepare_training_data.py:
 ```
 
 
+prot_t5_embed.py
+```
+Usage of prot_t5_embed.py:
+        [--faa FAA] path of the protein FASTA file to be embedded, default: raw_data/proteins.faa
+        [--out OUT] folder to store the protein embedding results, default: training_data/protein_embeddings
+        [--device DEVICE]   device utilized for protein embedding ('gpu' or 'cpu'), default: 'gpu'
+        [--batch_size BATCH_SIZE]   batch size used for protein embedding. If your GPU is out of memory, you can try to reduce this parameter, default: 16
+        [--prott5 PROTT5]   folder to store the downloaded ProtT5-XL-U50 model, default: prot_t5_xl_uniref50/
+```
