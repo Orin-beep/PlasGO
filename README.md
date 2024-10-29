@@ -129,6 +129,12 @@ Detailed information on the labels used in PlasGO's default models is provided i
 # Train your custom models
 To train your own PlasGO models, you need to install the scikit-learn package (```pip install scikit-learn```).
 
+You can easily train PlasGO models with the same [training data (Google Drive)](https://drive.google.com/file/d/1GIu58eZZCM_GQuQm5_zjBm7P2nRHun0M/view) for training standard PlasGO by running the ```train_plasgo.py``` script:
+
+```
+python train_plasgo.py --model_path custom_models --data training_data
+```
+
 
 
 # Datasets
