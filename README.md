@@ -28,7 +28,7 @@ rm diamond.tar.bz2
 ## Download the pre-annotated database
 Before running the `plasgo_diamond.py` script, you should first manually download the pre-annotated database of 678,196 plasmid proteins from either [Zenodo](https://zenodo.org/records/12542525/files/database.tar.gz?download=1) or [Google Drive](https://drive.google.com/file/d/1HrWiT_VioxhAoDoK_z6PguHTFDcXQ0gR/view?usp=drive_link).
 
-After downloading the file `models.tar.gz`, place it in the same directory as `plasgo_diamond.py` and uncompress it:
+After downloading the file `database.tar.gz`, place it in the same directory as `plasgo_diamond.py` and uncompress it:
 ```
 tar -zxvf database.tar.gz
 rm database.tar.gz
