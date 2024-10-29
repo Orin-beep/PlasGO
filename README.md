@@ -10,7 +10,7 @@ You can use PlasGO in two ways: 1) __alignment-based method__: run the `plasgo_d
 ### E-mail: yongxinji2-c@my.cityu.edu.hk
 
 
-### Version: V1.0 (2024-06-26)
+### Version: V1.1 (2024-10-29)
 
 
 # 1. Alignment-based Method (using Diamond)
