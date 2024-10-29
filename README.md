@@ -126,6 +126,11 @@ The second column shows the representative GO terms of the predicted clusters, a
 Detailed information on the labels used in PlasGO's default models is provided in the TSV file `GO_term_label_details.tsv`.
 
 
+# Train your custom models
+To train your own PlasGO models, you need to install the scikit-learn package (```pip install scikit-learn```).
+
+
+
 # Datasets
 The curated RefSeq dataset to train the PlasGO models can be downloaded from [Zenodo](https://zenodo.org/records/12542525/files/dataset.tar.gz?download=1) or [Google Drive](https://drive.google.com/file/d/1auVKQoES4vs4-jniGq1YbzBPyHTVpTtV/view?usp=drive_link).
 
